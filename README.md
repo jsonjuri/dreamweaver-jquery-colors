@@ -1,7 +1,7 @@
-Dreamweaver CC - jQuery Code Coloring Extension
+Dreamweaver CC - CakePHP Code Coloring Extension
 =======================
 
-[Adobe Dreamweaver CC IDE] dreamweaver / brackets extension which visualizes jQuery code coloring.
+[Adobe Dreamweaver CC IDE] dreamweaver / brackets extension which visualizes CakePHP code coloring.
 
 This extension adds the CSS class `<span class="cm-variable"></span>` and `<span class="cm-variable-2"></span>` to edit code coloring. 
 The styles are defined in `main.less` and variables in `main.js`.
@@ -15,7 +15,7 @@ Copy this extension to your dreamweaver folder:
 
 Clone the extension into the %appdata%\Adobe\Dreamweaver CC 2019\en_US\Configuration\Brackets\extensions\user directory.
 
-    git clone git://github.com/jsonjuri/dreamweaver-jquery-colors.git 
+    git clone git://github.com/jsonjuri/dreamweaver-cakephp-colors.git 
     
 ## License
 

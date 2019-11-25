@@ -1,14 +1,16 @@
 #editor-holder{
     // cm-variables starting with $ different color [added cm-variable-1, cm-variable-2]
+	.cm-m-javascript.cm-string {color: #93DBC9}
     .cm-tag, .cm-builtin, .cm-qualifier,.cm-variable,.cm-variable-1,.cm-variable-2, .cm-string, .cm-property {
         // [BEGIN] cm-variables starting with $ different color
-		@attributes: #FFA03C;
-		@manipulation: #E45B5B;
-		@traversing: #E678DC;
-		@events: #6B96D5;
-		@effects: #3CC0DC;
-		@ajax: #40D26E;
-        @core: #CFF417;
+		@attributes: #e89641;
+		@manipulation: #c768be;
+		@traversing: #E45B5B;
+		@events: #5bace4;
+		@event: #b7e694;
+		@effects: #9260d0;
+		@ajax: #5be48f;
+        @core: #bba56a;
 
 		&.cm-dreamweaver-jquery-attributes {
 			&-attr{color: @attributes}
@@ -35,7 +37,8 @@
 			&-data{color: @attributes}
 			&-hasData{color: @attributes}
 			&-removeData{color: @attributes}
-			&-validate{color: @manipulation}
+			&-remove{color: @traversing}
+			&-validate{color: @traversing}
 		}
 
 		&.cm-dreamweaver-jquery-manipulation {
@@ -59,7 +62,7 @@
 			&-unwrap{color: @manipulation}
 			&-replaceAll{color: @manipulation}
 			&-replaceWith{color: @manipulation}
-			&-validate{color: @manipulation}
+			&-validate{color: @traversing}
 		}
 
 		&.cm-dreamweaver-jquery-traversing {
@@ -91,6 +94,9 @@
 			&-prevAll{color: @traversing}
 			&-prevUntil{color: @traversing}
 			&-siblings{color: @traversing}
+			&-remove{color: @traversing}
+			&-validate{color: @traversing}
+			&-destroy{color: @traversing}
 		}
 
 		&.cm-dreamweaver-jquery-events {
@@ -147,10 +153,41 @@
 			&-result{color: @events}
 			&-stopImmediatePropagation{color: @events}
 			&-stopPropagation{color: @events}
-			&-target{color: @events}
+			//&-target{color: @events}
 			&-timeStamp{color: @events}
-			&-type{color: @events}
-			&-which{color: @events}
+			//&-type{color: @events}
+			&-which{color: @core}
+			&-parsley{color: @events}
+			&-select2{color: @events}
+			&-slimScroll{color: @events}
+		}
+		
+		&.cm-dreamweaver-jquery-events {
+			&-_error_{color: #e36d6d}
+			&-_resize_{color: @event}
+			&-_scroll_{color: @event}
+			&-_load_{color: @event}
+			&-_ready_{color: @event}
+			&-_blur_{color: @event}
+			&-_change_{color: @event}
+			&-_focus_{color: @event}
+			&-_focusin_{color: @event}
+			&-_focusout_{color: @event}			
+			&-_submit_{color: @event}
+			&-_keydown_{color: @event}
+			&-_keypress_{color: @event}
+			&-_keyup_{color: @event}
+			&-_click_{color: @event}			
+			&-_dblclick_{color: @event}
+			&-_hover_{color: @event}
+			&-_mousedown_{color: @event}
+			&-_mouseenter_{color: @event}
+			&-_mouseleave_{color: @event}
+			&-_mousemove_{color: @event}
+			&-_mouseout_{color: @event}
+			&-_mouseover_{color: @event}
+			&-_mouseup_{color: @event}
+			&-_toggle_{color: @event}
 		}
 
 		&.cm-dreamweaver-jquery-effects {
@@ -273,7 +310,6 @@
     }
 	.cm-builtin {color: #e28642}
     .cm-bracket {opacity: .9}
-	.cm-m-clike.cm-string {color: #93DBC9}
     .cm-attribute{
         &.cm-dreamweaver-jquery-tag-ID:not(#arienai){
             color: #B20000;
