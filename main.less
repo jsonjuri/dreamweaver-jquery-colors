@@ -1,0 +1,283 @@
+#editor-holder{
+    // cm-variables starting with $ different color [added cm-variable-1, cm-variable-2]
+    .cm-tag, .cm-builtin, .cm-qualifier,.cm-variable,.cm-variable-1,.cm-variable-2, .cm-string, .cm-property {
+        // [BEGIN] cm-variables starting with $ different color
+		@attributes: #FFA03C;
+		@manipulation: #E45B5B;
+		@traversing: #E678DC;
+		@events: #6B96D5;
+		@effects: #3CC0DC;
+		@ajax: #40D26E;
+        @core: #CFF417;
+
+		&.cm-dreamweaver-jquery-attributes {
+			&-attr{color: @attributes}
+			&-prop{color: @attributes}
+			&-removeAttr{color: @attributes}
+			&-removeProp{color: @attributes}
+			&-val{color: @attributes}
+			&-addClass{color: @attributes}
+			&-css{color: @attributes}
+			&-hasClass{color: @attributes}
+			&-removeClass{color: @attributes}
+			&-toggleClass{color: @attributes}
+			&-height{color: @attributes}
+			&-innerHeight{color: @attributes}
+			&-innerWidth{color: @attributes}
+			&-outerHeight{color: @attributes}
+			&-outerWidth{color: @attributes}
+			&-width{color: @attributes}
+			&-offset{color: @attributes}
+			&-offsetParent{color: @attributes}
+			&-position{color: @attributes}
+			&-scrollLeft{color: @attributes}
+			&-scrollTop{color: @attributes}
+			&-data{color: @attributes}
+			&-hasData{color: @attributes}
+			&-removeData{color: @attributes}
+			&-validate{color: @manipulation}
+		}
+
+		&.cm-dreamweaver-jquery-manipulation {
+			&-clone{color: @manipulation}
+			&-wrap{color: @manipulation}
+			&-wrapAll{color: @manipulation}
+			&-wrapInner{color: @manipulation}
+			&-append{color: @manipulation}
+			&-appendTo{color: @manipulation}
+			&-html{color: @manipulation}
+			&-prepend{color: @manipulation}
+			&-prependTo{color: @manipulation}
+			&-text{color: @manipulation}
+			&-after{color: @manipulation}
+			&-before{color: @manipulation}
+			&-insertAfter{color: @manipulation}
+			&-insertBefore{color: @manipulation}
+			&-detach{color: @manipulation}
+			&-empty{color: @manipulation}
+			&-remove{color: @manipulation}
+			&-unwrap{color: @manipulation}
+			&-replaceAll{color: @manipulation}
+			&-replaceWith{color: @manipulation}
+			&-validate{color: @manipulation}
+		}
+
+		&.cm-dreamweaver-jquery-traversing {
+			&-eq{color: @traversing}
+			&-filter{color: @traversing}
+			&-first{color: @traversing}
+			&-has{color: @traversing}
+			&-is{color: @traversing}
+			&-last{color: @traversing}
+			&-map{color: @traversing}
+			&-not{color: @traversing}
+			&-slice{color: @traversing}
+			&-add{color: @traversing}
+			&-addBack{color: @traversing}
+			&-andSelf{color: @traversing}
+			&-contents{color: @traversing}
+			&-each{color: @traversing}
+			&-end{color: @traversing}
+			&-children{color: @traversing}
+			&-closest{color: @traversing}
+			&-find{color: @traversing}
+			&-next{color: @traversing}
+			&-nextAll{color: @traversing}
+			&-nextUntil{color: @traversing}
+			&-parent{color: @traversing}
+			&-parents{color: @traversing}
+			&-parentsUntil{color: @traversing}
+			&-prev{color: @traversing}
+			&-prevAll{color: @traversing}
+			&-prevUntil{color: @traversing}
+			&-siblings{color: @traversing}
+		}
+
+		&.cm-dreamweaver-jquery-events {
+			&-error{color: #e36d6d}
+			&-resize{color: @events}
+			&-scroll{color: @events}
+			&-load{color: @events}
+			&-ready{color: @events}
+			&-unload{color: @events}
+			&-bind{color: @events}
+			&-delegate{color: @events}
+			&-die{color: @events}
+			&-live{color: @events}
+			&-off{color: @events}
+			&-on{color: @events}
+			&-one{color: @events}
+			&-trigger{color: @events}
+			&-triggerHandler{color: @events}
+			&-unbind{color: @events}
+			&-undelegate{color: @events}
+			&-blur{color: @events}
+			&-change{color: @events}
+			&-focus{color: @events}
+			&-focusin{color: @events}
+			&-focusout{color: @events}
+			&-select{color: @events}
+			&-submit{color: @events}
+			&-keydown{color: @events}
+			&-keypress{color: @events}
+			&-keyup{color: @events}
+			&-click{color: @events}
+			&-contextMenu{color: @events}
+			&-dblclick{color: @events}
+			&-hover{color: @events}
+			&-mousedown{color: @events}
+			&-mouseenter{color: @events}
+			&-mouseleave{color: @events}
+			&-mousemove{color: @events}
+			&-mouseout{color: @events}
+			&-mouseover{color: @events}
+			&-mouseup{color: @events}
+			&-toggle{color: @events}
+			&-currentTarget{color: @events}
+			&-delegateTarget{color: @events}
+			&-isDefaultPrevented{color: @events}
+			&-isImmediatePropagationStopped{color: @events}
+			&-isPropagationStopped{color: @events}
+			&-metaKey{color: @events}
+			&-namespace{color: @events}
+			&-pageX{color: @events}
+			&-pageY{color: @events}
+			&-preventDefault{color: @events}
+			&-relatedTarget{color: @events}
+			&-result{color: @events}
+			&-stopImmediatePropagation{color: @events}
+			&-stopPropagation{color: @events}
+			&-target{color: @events}
+			&-timeStamp{color: @events}
+			&-type{color: @events}
+			&-which{color: @events}
+		}
+
+		&.cm-dreamweaver-jquery-effects {
+			&-hide{color: @effects}
+			&-show{color: @effects}
+			&-toggle{color: @effects}
+			&-animate{color: @effects}
+			&-clearQueue{color: @effects}
+			&-delay{color: @effects}
+			&-dequeue{color: @effects}
+			&-finish{color: @effects}
+			&-interval{color: @effects}
+			&-speed{color: @effects}
+			&-queue{color: @effects}
+			&-stop{color: @effects}
+			&-fadeIn{color: @effects}
+			&-fadeOut{color: @effects}
+			&-fadeTo{color: @effects}
+			&-fadeToggle{color: @effects}
+			&-slideDown{color: @effects}
+			&-slideToggle{color: @effects}
+			&-slideUp{color: @effects}
+		}
+
+		&.cm-dreamweaver-jquery-ajax {
+			&-ajaxComplete{color: @ajax}
+			&-ajaxError{color: @ajax}
+			&-ajaxSend{color: @ajax}
+			&-ajaxStart{color: @ajax}
+			&-ajaxStop{color: @ajax}
+			&-ajaxSuccess{color: @ajax}
+			&-param{color: @ajax}
+			&-serialize{color: @ajax}
+			&-serializeArray{color: @ajax}
+			&-ajax{color: @ajax}
+			&-prefilter{color: @ajax}
+			&-ajaxSetup{color: @ajax}
+			&-ajaxTransport{color: @ajax}
+			&-get{color: @ajax}
+			&-getJSON{color: @ajax}
+			&-getScript{color: @ajax}
+			&-post{color: @ajax}
+			&-load{color: @ajax}
+			&-error{color: #e36d6d;}
+			&-success{color: #a6d634;}
+		}
+
+		&.cm-dreamweaver-jquery-core {
+			&-jQuery{color: @core}
+			&-noConflict{color: @core}
+			&-sub{color: @core}
+			&-holdReady{color: @core}
+			&-when{color: @core}
+			&-Deferred{color: @core}
+			&-always{color: @core}
+			&-done{color: @core}
+			&-fail{color: @core}
+			&-isRejected{color: @core}
+			&-isResolved{color: @core}
+			&-notify{color: @core}
+			&-notifyWith{color: @core}
+			&-pipe{color: @core}
+			&-progress{color: @core}
+			&-promise{color: @core}
+			&-reject{color: @core}
+			&-rejectWith{color: @core}
+			&-resolve{color: @core}
+			&-resolveWith{color: @core}
+			&-state{color: @core}
+			&-then{color: @core}
+			&-promise{color: @core}
+			&-boxModel{color: @core}
+			&-browser{color: @core}
+			&-contains{color: @core}
+			&-each{color: @core}
+			&-extend{color: @core}
+			&-globalEval{color: @core}
+			&-grep{color: @core}
+			&-inArray{color: @core}
+			&-isArray{color: @core}
+			&-isEmptyObject{color: @core}
+			&-isFunction{color: @core}
+			&-isNumeric{color: @core}
+			&-isPlainObject{color: @core}
+			&-isWindow{color: @core}
+			&-isXMLDoc{color: @core}
+			&-makeArray{color: @core}
+			&-map{color: @core}
+			&-merge{color: @core}
+			&-noop{color: @core}
+			&-now{color: @core}
+			&-parseHTML{color: @core}
+			&-parseJSON{color: @core}
+			&-parseXML{color: @core}
+			&-proxy{color: @core}
+			&-support{color: @core}
+			&-trim{color: @core}
+			&-type{color: @core}
+			&-unique{color: @core}
+			&-uniqueSort{color: @core}
+			&-get{color: @core}
+			&-index{color: @core}
+			&-size{color: @core}
+			&-toArray{color: @core}
+			&-jquery{color: @core}
+			&-context{color: @core}
+			&-length{color: @core}
+			&-pushStack{color: @core}
+			&-selector{color: @core}
+			&-add{color: @core}
+			&-fire{color: @core}
+			&-fired{color: @core}
+			&-fireWith{color: @core}
+			&-has{color: @core}
+			&-lock{color: @core}
+			&-locked{color: @core}
+		}
+
+        // [END] cm-variables starting with $ different color
+    }
+	.cm-builtin {color: #e28642}
+    .cm-bracket {opacity: .9}
+	.cm-m-clike.cm-string {color: #93DBC9}
+    .cm-attribute{
+        &.cm-dreamweaver-jquery-tag-ID:not(#arienai){
+            color: #B20000;
+            //font-weight: bold;
+        }
+    }
+}

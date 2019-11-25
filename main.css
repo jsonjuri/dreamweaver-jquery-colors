@@ -1,0 +1,2422 @@
+#editor-holder .cm-tag.cm-dreamweaver-jquery-attributes-attr,
+#editor-holder .cm-builtin.cm-dreamweaver-jquery-attributes-attr,
+#editor-holder .cm-qualifier.cm-dreamweaver-jquery-attributes-attr,
+#editor-holder .cm-variable.cm-dreamweaver-jquery-attributes-attr,
+#editor-holder .cm-variable-1.cm-dreamweaver-jquery-attributes-attr,
+#editor-holder .cm-variable-2.cm-dreamweaver-jquery-attributes-attr,
+#editor-holder .cm-string.cm-dreamweaver-jquery-attributes-attr,
+#editor-holder .cm-property.cm-dreamweaver-jquery-attributes-attr {
+  color: #FFA03C;
+}
+#editor-holder .cm-tag.cm-dreamweaver-jquery-attributes-prop,
+#editor-holder .cm-builtin.cm-dreamweaver-jquery-attributes-prop,
+#editor-holder .cm-qualifier.cm-dreamweaver-jquery-attributes-prop,
+#editor-holder .cm-variable.cm-dreamweaver-jquery-attributes-prop,
+#editor-holder .cm-variable-1.cm-dreamweaver-jquery-attributes-prop,
+#editor-holder .cm-variable-2.cm-dreamweaver-jquery-attributes-prop,
+#editor-holder .cm-string.cm-dreamweaver-jquery-attributes-prop,
+#editor-holder .cm-property.cm-dreamweaver-jquery-attributes-prop {
+  color: #FFA03C;
+}
+#editor-holder .cm-tag.cm-dreamweaver-jquery-attributes-removeAttr,
+#editor-holder .cm-builtin.cm-dreamweaver-jquery-attributes-removeAttr,
+#editor-holder .cm-qualifier.cm-dreamweaver-jquery-attributes-removeAttr,
+#editor-holder .cm-variable.cm-dreamweaver-jquery-attributes-removeAttr,
+#editor-holder .cm-variable-1.cm-dreamweaver-jquery-attributes-removeAttr,
+#editor-holder .cm-variable-2.cm-dreamweaver-jquery-attributes-removeAttr,
+#editor-holder .cm-string.cm-dreamweaver-jquery-attributes-removeAttr,
+#editor-holder .cm-property.cm-dreamweaver-jquery-attributes-removeAttr {
+  color: #FFA03C;
+}
+#editor-holder .cm-tag.cm-dreamweaver-jquery-attributes-removeProp,
+#editor-holder .cm-builtin.cm-dreamweaver-jquery-attributes-removeProp,
+#editor-holder .cm-qualifier.cm-dreamweaver-jquery-attributes-removeProp,
+#editor-holder .cm-variable.cm-dreamweaver-jquery-attributes-removeProp,
+#editor-holder .cm-variable-1.cm-dreamweaver-jquery-attributes-removeProp,
+#editor-holder .cm-variable-2.cm-dreamweaver-jquery-attributes-removeProp,
+#editor-holder .cm-string.cm-dreamweaver-jquery-attributes-removeProp,
+#editor-holder .cm-property.cm-dreamweaver-jquery-attributes-removeProp {
+  color: #FFA03C;
+}
+#editor-holder .cm-tag.cm-dreamweaver-jquery-attributes-val,
+#editor-holder .cm-builtin.cm-dreamweaver-jquery-attributes-val,
+#editor-holder .cm-qualifier.cm-dreamweaver-jquery-attributes-val,
+#editor-holder .cm-variable.cm-dreamweaver-jquery-attributes-val,
+#editor-holder .cm-variable-1.cm-dreamweaver-jquery-attributes-val,
+#editor-holder .cm-variable-2.cm-dreamweaver-jquery-attributes-val,
+#editor-holder .cm-string.cm-dreamweaver-jquery-attributes-val,
+#editor-holder .cm-property.cm-dreamweaver-jquery-attributes-val {
+  color: #FFA03C;
+}
+#editor-holder .cm-tag.cm-dreamweaver-jquery-attributes-addClass,
+#editor-holder .cm-builtin.cm-dreamweaver-jquery-attributes-addClass,
+#editor-holder .cm-qualifier.cm-dreamweaver-jquery-attributes-addClass,
+#editor-holder .cm-variable.cm-dreamweaver-jquery-attributes-addClass,
+#editor-holder .cm-variable-1.cm-dreamweaver-jquery-attributes-addClass,
+#editor-holder .cm-variable-2.cm-dreamweaver-jquery-attributes-addClass,
+#editor-holder .cm-string.cm-dreamweaver-jquery-attributes-addClass,
+#editor-holder .cm-property.cm-dreamweaver-jquery-attributes-addClass {
+  color: #FFA03C;
+}
+#editor-holder .cm-tag.cm-dreamweaver-jquery-attributes-css,
+#editor-holder .cm-builtin.cm-dreamweaver-jquery-attributes-css,
+#editor-holder .cm-qualifier.cm-dreamweaver-jquery-attributes-css,
+#editor-holder .cm-variable.cm-dreamweaver-jquery-attributes-css,
+#editor-holder .cm-variable-1.cm-dreamweaver-jquery-attributes-css,
+#editor-holder .cm-variable-2.cm-dreamweaver-jquery-attributes-css,
+#editor-holder .cm-string.cm-dreamweaver-jquery-attributes-css,
+#editor-holder .cm-property.cm-dreamweaver-jquery-attributes-css {
+  color: #FFA03C;
+}
+#editor-holder .cm-tag.cm-dreamweaver-jquery-attributes-hasClass,
+#editor-holder .cm-builtin.cm-dreamweaver-jquery-attributes-hasClass,
+#editor-holder .cm-qualifier.cm-dreamweaver-jquery-attributes-hasClass,
+#editor-holder .cm-variable.cm-dreamweaver-jquery-attributes-hasClass,
+#editor-holder .cm-variable-1.cm-dreamweaver-jquery-attributes-hasClass,
+#editor-holder .cm-variable-2.cm-dreamweaver-jquery-attributes-hasClass,
+#editor-holder .cm-string.cm-dreamweaver-jquery-attributes-hasClass,
+#editor-holder .cm-property.cm-dreamweaver-jquery-attributes-hasClass {
+  color: #FFA03C;
+}
+#editor-holder .cm-tag.cm-dreamweaver-jquery-attributes-removeClass,
+#editor-holder .cm-builtin.cm-dreamweaver-jquery-attributes-removeClass,
+#editor-holder .cm-qualifier.cm-dreamweaver-jquery-attributes-removeClass,
+#editor-holder .cm-variable.cm-dreamweaver-jquery-attributes-removeClass,
+#editor-holder .cm-variable-1.cm-dreamweaver-jquery-attributes-removeClass,
+#editor-holder .cm-variable-2.cm-dreamweaver-jquery-attributes-removeClass,
+#editor-holder .cm-string.cm-dreamweaver-jquery-attributes-removeClass,
+#editor-holder .cm-property.cm-dreamweaver-jquery-attributes-removeClass {
+  color: #FFA03C;
+}
+#editor-holder .cm-tag.cm-dreamweaver-jquery-attributes-toggleClass,
+#editor-holder .cm-builtin.cm-dreamweaver-jquery-attributes-toggleClass,
+#editor-holder .cm-qualifier.cm-dreamweaver-jquery-attributes-toggleClass,
+#editor-holder .cm-variable.cm-dreamweaver-jquery-attributes-toggleClass,
+#editor-holder .cm-variable-1.cm-dreamweaver-jquery-attributes-toggleClass,
+#editor-holder .cm-variable-2.cm-dreamweaver-jquery-attributes-toggleClass,
+#editor-holder .cm-string.cm-dreamweaver-jquery-attributes-toggleClass,
+#editor-holder .cm-property.cm-dreamweaver-jquery-attributes-toggleClass {
+  color: #FFA03C;
+}
+#editor-holder .cm-tag.cm-dreamweaver-jquery-attributes-height,
+#editor-holder .cm-builtin.cm-dreamweaver-jquery-attributes-height,
+#editor-holder .cm-qualifier.cm-dreamweaver-jquery-attributes-height,
+#editor-holder .cm-variable.cm-dreamweaver-jquery-attributes-height,
+#editor-holder .cm-variable-1.cm-dreamweaver-jquery-attributes-height,
+#editor-holder .cm-variable-2.cm-dreamweaver-jquery-attributes-height,
+#editor-holder .cm-string.cm-dreamweaver-jquery-attributes-height,
+#editor-holder .cm-property.cm-dreamweaver-jquery-attributes-height {
+  color: #FFA03C;
+}
+#editor-holder .cm-tag.cm-dreamweaver-jquery-attributes-innerHeight,
+#editor-holder .cm-builtin.cm-dreamweaver-jquery-attributes-innerHeight,
+#editor-holder .cm-qualifier.cm-dreamweaver-jquery-attributes-innerHeight,
+#editor-holder .cm-variable.cm-dreamweaver-jquery-attributes-innerHeight,
+#editor-holder .cm-variable-1.cm-dreamweaver-jquery-attributes-innerHeight,
+#editor-holder .cm-variable-2.cm-dreamweaver-jquery-attributes-innerHeight,
+#editor-holder .cm-string.cm-dreamweaver-jquery-attributes-innerHeight,
+#editor-holder .cm-property.cm-dreamweaver-jquery-attributes-innerHeight {
+  color: #FFA03C;
+}
+#editor-holder .cm-tag.cm-dreamweaver-jquery-attributes-innerWidth,
+#editor-holder .cm-builtin.cm-dreamweaver-jquery-attributes-innerWidth,
+#editor-holder .cm-qualifier.cm-dreamweaver-jquery-attributes-innerWidth,
+#editor-holder .cm-variable.cm-dreamweaver-jquery-attributes-innerWidth,
+#editor-holder .cm-variable-1.cm-dreamweaver-jquery-attributes-innerWidth,
+#editor-holder .cm-variable-2.cm-dreamweaver-jquery-attributes-innerWidth,
+#editor-holder .cm-string.cm-dreamweaver-jquery-attributes-innerWidth,
+#editor-holder .cm-property.cm-dreamweaver-jquery-attributes-innerWidth {
+  color: #FFA03C;
+}
+#editor-holder .cm-tag.cm-dreamweaver-jquery-attributes-outerHeight,
+#editor-holder .cm-builtin.cm-dreamweaver-jquery-attributes-outerHeight,
+#editor-holder .cm-qualifier.cm-dreamweaver-jquery-attributes-outerHeight,
+#editor-holder .cm-variable.cm-dreamweaver-jquery-attributes-outerHeight,
+#editor-holder .cm-variable-1.cm-dreamweaver-jquery-attributes-outerHeight,
+#editor-holder .cm-variable-2.cm-dreamweaver-jquery-attributes-outerHeight,
+#editor-holder .cm-string.cm-dreamweaver-jquery-attributes-outerHeight,
+#editor-holder .cm-property.cm-dreamweaver-jquery-attributes-outerHeight {
+  color: #FFA03C;
+}
+#editor-holder .cm-tag.cm-dreamweaver-jquery-attributes-outerWidth,
+#editor-holder .cm-builtin.cm-dreamweaver-jquery-attributes-outerWidth,
+#editor-holder .cm-qualifier.cm-dreamweaver-jquery-attributes-outerWidth,
+#editor-holder .cm-variable.cm-dreamweaver-jquery-attributes-outerWidth,
+#editor-holder .cm-variable-1.cm-dreamweaver-jquery-attributes-outerWidth,
+#editor-holder .cm-variable-2.cm-dreamweaver-jquery-attributes-outerWidth,
+#editor-holder .cm-string.cm-dreamweaver-jquery-attributes-outerWidth,
+#editor-holder .cm-property.cm-dreamweaver-jquery-attributes-outerWidth {
+  color: #FFA03C;
+}
+#editor-holder .cm-tag.cm-dreamweaver-jquery-attributes-width,
+#editor-holder .cm-builtin.cm-dreamweaver-jquery-attributes-width,
+#editor-holder .cm-qualifier.cm-dreamweaver-jquery-attributes-width,
+#editor-holder .cm-variable.cm-dreamweaver-jquery-attributes-width,
+#editor-holder .cm-variable-1.cm-dreamweaver-jquery-attributes-width,
+#editor-holder .cm-variable-2.cm-dreamweaver-jquery-attributes-width,
+#editor-holder .cm-string.cm-dreamweaver-jquery-attributes-width,
+#editor-holder .cm-property.cm-dreamweaver-jquery-attributes-width {
+  color: #FFA03C;
+}
+#editor-holder .cm-tag.cm-dreamweaver-jquery-attributes-offset,
+#editor-holder .cm-builtin.cm-dreamweaver-jquery-attributes-offset,
+#editor-holder .cm-qualifier.cm-dreamweaver-jquery-attributes-offset,
+#editor-holder .cm-variable.cm-dreamweaver-jquery-attributes-offset,
+#editor-holder .cm-variable-1.cm-dreamweaver-jquery-attributes-offset,
+#editor-holder .cm-variable-2.cm-dreamweaver-jquery-attributes-offset,
+#editor-holder .cm-string.cm-dreamweaver-jquery-attributes-offset,
+#editor-holder .cm-property.cm-dreamweaver-jquery-attributes-offset {
+  color: #FFA03C;
+}
+#editor-holder .cm-tag.cm-dreamweaver-jquery-attributes-offsetParent,
+#editor-holder .cm-builtin.cm-dreamweaver-jquery-attributes-offsetParent,
+#editor-holder .cm-qualifier.cm-dreamweaver-jquery-attributes-offsetParent,
+#editor-holder .cm-variable.cm-dreamweaver-jquery-attributes-offsetParent,
+#editor-holder .cm-variable-1.cm-dreamweaver-jquery-attributes-offsetParent,
+#editor-holder .cm-variable-2.cm-dreamweaver-jquery-attributes-offsetParent,
+#editor-holder .cm-string.cm-dreamweaver-jquery-attributes-offsetParent,
+#editor-holder .cm-property.cm-dreamweaver-jquery-attributes-offsetParent {
+  color: #FFA03C;
+}
+#editor-holder .cm-tag.cm-dreamweaver-jquery-attributes-position,
+#editor-holder .cm-builtin.cm-dreamweaver-jquery-attributes-position,
+#editor-holder .cm-qualifier.cm-dreamweaver-jquery-attributes-position,
+#editor-holder .cm-variable.cm-dreamweaver-jquery-attributes-position,
+#editor-holder .cm-variable-1.cm-dreamweaver-jquery-attributes-position,
+#editor-holder .cm-variable-2.cm-dreamweaver-jquery-attributes-position,
+#editor-holder .cm-string.cm-dreamweaver-jquery-attributes-position,
+#editor-holder .cm-property.cm-dreamweaver-jquery-attributes-position {
+  color: #FFA03C;
+}
+#editor-holder .cm-tag.cm-dreamweaver-jquery-attributes-scrollLeft,
+#editor-holder .cm-builtin.cm-dreamweaver-jquery-attributes-scrollLeft,
+#editor-holder .cm-qualifier.cm-dreamweaver-jquery-attributes-scrollLeft,
+#editor-holder .cm-variable.cm-dreamweaver-jquery-attributes-scrollLeft,
+#editor-holder .cm-variable-1.cm-dreamweaver-jquery-attributes-scrollLeft,
+#editor-holder .cm-variable-2.cm-dreamweaver-jquery-attributes-scrollLeft,
+#editor-holder .cm-string.cm-dreamweaver-jquery-attributes-scrollLeft,
+#editor-holder .cm-property.cm-dreamweaver-jquery-attributes-scrollLeft {
+  color: #FFA03C;
+}
+#editor-holder .cm-tag.cm-dreamweaver-jquery-attributes-scrollTop,
+#editor-holder .cm-builtin.cm-dreamweaver-jquery-attributes-scrollTop,
+#editor-holder .cm-qualifier.cm-dreamweaver-jquery-attributes-scrollTop,
+#editor-holder .cm-variable.cm-dreamweaver-jquery-attributes-scrollTop,
+#editor-holder .cm-variable-1.cm-dreamweaver-jquery-attributes-scrollTop,
+#editor-holder .cm-variable-2.cm-dreamweaver-jquery-attributes-scrollTop,
+#editor-holder .cm-string.cm-dreamweaver-jquery-attributes-scrollTop,
+#editor-holder .cm-property.cm-dreamweaver-jquery-attributes-scrollTop {
+  color: #FFA03C;
+}
+#editor-holder .cm-tag.cm-dreamweaver-jquery-attributes-data,
+#editor-holder .cm-builtin.cm-dreamweaver-jquery-attributes-data,
+#editor-holder .cm-qualifier.cm-dreamweaver-jquery-attributes-data,
+#editor-holder .cm-variable.cm-dreamweaver-jquery-attributes-data,
+#editor-holder .cm-variable-1.cm-dreamweaver-jquery-attributes-data,
+#editor-holder .cm-variable-2.cm-dreamweaver-jquery-attributes-data,
+#editor-holder .cm-string.cm-dreamweaver-jquery-attributes-data,
+#editor-holder .cm-property.cm-dreamweaver-jquery-attributes-data {
+  color: #FFA03C;
+}
+#editor-holder .cm-tag.cm-dreamweaver-jquery-attributes-hasData,
+#editor-holder .cm-builtin.cm-dreamweaver-jquery-attributes-hasData,
+#editor-holder .cm-qualifier.cm-dreamweaver-jquery-attributes-hasData,
+#editor-holder .cm-variable.cm-dreamweaver-jquery-attributes-hasData,
+#editor-holder .cm-variable-1.cm-dreamweaver-jquery-attributes-hasData,
+#editor-holder .cm-variable-2.cm-dreamweaver-jquery-attributes-hasData,
+#editor-holder .cm-string.cm-dreamweaver-jquery-attributes-hasData,
+#editor-holder .cm-property.cm-dreamweaver-jquery-attributes-hasData {
+  color: #FFA03C;
+}
+#editor-holder .cm-tag.cm-dreamweaver-jquery-attributes-removeData,
+#editor-holder .cm-builtin.cm-dreamweaver-jquery-attributes-removeData,
+#editor-holder .cm-qualifier.cm-dreamweaver-jquery-attributes-removeData,
+#editor-holder .cm-variable.cm-dreamweaver-jquery-attributes-removeData,
+#editor-holder .cm-variable-1.cm-dreamweaver-jquery-attributes-removeData,
+#editor-holder .cm-variable-2.cm-dreamweaver-jquery-attributes-removeData,
+#editor-holder .cm-string.cm-dreamweaver-jquery-attributes-removeData,
+#editor-holder .cm-property.cm-dreamweaver-jquery-attributes-removeData {
+  color: #FFA03C;
+}
+#editor-holder .cm-tag.cm-dreamweaver-jquery-manipulation-clone,
+#editor-holder .cm-builtin.cm-dreamweaver-jquery-manipulation-clone,
+#editor-holder .cm-qualifier.cm-dreamweaver-jquery-manipulation-clone,
+#editor-holder .cm-variable.cm-dreamweaver-jquery-manipulation-clone,
+#editor-holder .cm-variable-1.cm-dreamweaver-jquery-manipulation-clone,
+#editor-holder .cm-variable-2.cm-dreamweaver-jquery-manipulation-clone,
+#editor-holder .cm-string.cm-dreamweaver-jquery-manipulation-clone,
+#editor-holder .cm-property.cm-dreamweaver-jquery-manipulation-clone {
+  color: #E45B5B;
+}
+#editor-holder .cm-tag.cm-dreamweaver-jquery-manipulation-wrap,
+#editor-holder .cm-builtin.cm-dreamweaver-jquery-manipulation-wrap,
+#editor-holder .cm-qualifier.cm-dreamweaver-jquery-manipulation-wrap,
+#editor-holder .cm-variable.cm-dreamweaver-jquery-manipulation-wrap,
+#editor-holder .cm-variable-1.cm-dreamweaver-jquery-manipulation-wrap,
+#editor-holder .cm-variable-2.cm-dreamweaver-jquery-manipulation-wrap,
+#editor-holder .cm-string.cm-dreamweaver-jquery-manipulation-wrap,
+#editor-holder .cm-property.cm-dreamweaver-jquery-manipulation-wrap {
+  color: #E45B5B;
+}
+#editor-holder .cm-tag.cm-dreamweaver-jquery-manipulation-wrapAll,
+#editor-holder .cm-builtin.cm-dreamweaver-jquery-manipulation-wrapAll,
+#editor-holder .cm-qualifier.cm-dreamweaver-jquery-manipulation-wrapAll,
+#editor-holder .cm-variable.cm-dreamweaver-jquery-manipulation-wrapAll,
+#editor-holder .cm-variable-1.cm-dreamweaver-jquery-manipulation-wrapAll,
+#editor-holder .cm-variable-2.cm-dreamweaver-jquery-manipulation-wrapAll,
+#editor-holder .cm-string.cm-dreamweaver-jquery-manipulation-wrapAll,
+#editor-holder .cm-property.cm-dreamweaver-jquery-manipulation-wrapAll {
+  color: #E45B5B;
+}
+#editor-holder .cm-tag.cm-dreamweaver-jquery-manipulation-wrapInner,
+#editor-holder .cm-builtin.cm-dreamweaver-jquery-manipulation-wrapInner,
+#editor-holder .cm-qualifier.cm-dreamweaver-jquery-manipulation-wrapInner,
+#editor-holder .cm-variable.cm-dreamweaver-jquery-manipulation-wrapInner,
+#editor-holder .cm-variable-1.cm-dreamweaver-jquery-manipulation-wrapInner,
+#editor-holder .cm-variable-2.cm-dreamweaver-jquery-manipulation-wrapInner,
+#editor-holder .cm-string.cm-dreamweaver-jquery-manipulation-wrapInner,
+#editor-holder .cm-property.cm-dreamweaver-jquery-manipulation-wrapInner {
+  color: #E45B5B;
+}
+#editor-holder .cm-tag.cm-dreamweaver-jquery-manipulation-append,
+#editor-holder .cm-builtin.cm-dreamweaver-jquery-manipulation-append,
+#editor-holder .cm-qualifier.cm-dreamweaver-jquery-manipulation-append,
+#editor-holder .cm-variable.cm-dreamweaver-jquery-manipulation-append,
+#editor-holder .cm-variable-1.cm-dreamweaver-jquery-manipulation-append,
+#editor-holder .cm-variable-2.cm-dreamweaver-jquery-manipulation-append,
+#editor-holder .cm-string.cm-dreamweaver-jquery-manipulation-append,
+#editor-holder .cm-property.cm-dreamweaver-jquery-manipulation-append {
+  color: #E45B5B;
+}
+#editor-holder .cm-tag.cm-dreamweaver-jquery-manipulation-appendTo,
+#editor-holder .cm-builtin.cm-dreamweaver-jquery-manipulation-appendTo,
+#editor-holder .cm-qualifier.cm-dreamweaver-jquery-manipulation-appendTo,
+#editor-holder .cm-variable.cm-dreamweaver-jquery-manipulation-appendTo,
+#editor-holder .cm-variable-1.cm-dreamweaver-jquery-manipulation-appendTo,
+#editor-holder .cm-variable-2.cm-dreamweaver-jquery-manipulation-appendTo,
+#editor-holder .cm-string.cm-dreamweaver-jquery-manipulation-appendTo,
+#editor-holder .cm-property.cm-dreamweaver-jquery-manipulation-appendTo {
+  color: #E45B5B;
+}
+#editor-holder .cm-tag.cm-dreamweaver-jquery-manipulation-html,
+#editor-holder .cm-builtin.cm-dreamweaver-jquery-manipulation-html,
+#editor-holder .cm-qualifier.cm-dreamweaver-jquery-manipulation-html,
+#editor-holder .cm-variable.cm-dreamweaver-jquery-manipulation-html,
+#editor-holder .cm-variable-1.cm-dreamweaver-jquery-manipulation-html,
+#editor-holder .cm-variable-2.cm-dreamweaver-jquery-manipulation-html,
+#editor-holder .cm-string.cm-dreamweaver-jquery-manipulation-html,
+#editor-holder .cm-property.cm-dreamweaver-jquery-manipulation-html {
+  color: #E45B5B;
+}
+#editor-holder .cm-tag.cm-dreamweaver-jquery-manipulation-prepend,
+#editor-holder .cm-builtin.cm-dreamweaver-jquery-manipulation-prepend,
+#editor-holder .cm-qualifier.cm-dreamweaver-jquery-manipulation-prepend,
+#editor-holder .cm-variable.cm-dreamweaver-jquery-manipulation-prepend,
+#editor-holder .cm-variable-1.cm-dreamweaver-jquery-manipulation-prepend,
+#editor-holder .cm-variable-2.cm-dreamweaver-jquery-manipulation-prepend,
+#editor-holder .cm-string.cm-dreamweaver-jquery-manipulation-prepend,
+#editor-holder .cm-property.cm-dreamweaver-jquery-manipulation-prepend {
+  color: #E45B5B;
+}
+#editor-holder .cm-tag.cm-dreamweaver-jquery-manipulation-prependTo,
+#editor-holder .cm-builtin.cm-dreamweaver-jquery-manipulation-prependTo,
+#editor-holder .cm-qualifier.cm-dreamweaver-jquery-manipulation-prependTo,
+#editor-holder .cm-variable.cm-dreamweaver-jquery-manipulation-prependTo,
+#editor-holder .cm-variable-1.cm-dreamweaver-jquery-manipulation-prependTo,
+#editor-holder .cm-variable-2.cm-dreamweaver-jquery-manipulation-prependTo,
+#editor-holder .cm-string.cm-dreamweaver-jquery-manipulation-prependTo,
+#editor-holder .cm-property.cm-dreamweaver-jquery-manipulation-prependTo {
+  color: #E45B5B;
+}
+#editor-holder .cm-tag.cm-dreamweaver-jquery-manipulation-text,
+#editor-holder .cm-builtin.cm-dreamweaver-jquery-manipulation-text,
+#editor-holder .cm-qualifier.cm-dreamweaver-jquery-manipulation-text,
+#editor-holder .cm-variable.cm-dreamweaver-jquery-manipulation-text,
+#editor-holder .cm-variable-1.cm-dreamweaver-jquery-manipulation-text,
+#editor-holder .cm-variable-2.cm-dreamweaver-jquery-manipulation-text,
+#editor-holder .cm-string.cm-dreamweaver-jquery-manipulation-text,
+#editor-holder .cm-property.cm-dreamweaver-jquery-manipulation-text {
+  color: #E45B5B;
+}
+#editor-holder .cm-tag.cm-dreamweaver-jquery-manipulation-after,
+#editor-holder .cm-builtin.cm-dreamweaver-jquery-manipulation-after,
+#editor-holder .cm-qualifier.cm-dreamweaver-jquery-manipulation-after,
+#editor-holder .cm-variable.cm-dreamweaver-jquery-manipulation-after,
+#editor-holder .cm-variable-1.cm-dreamweaver-jquery-manipulation-after,
+#editor-holder .cm-variable-2.cm-dreamweaver-jquery-manipulation-after,
+#editor-holder .cm-string.cm-dreamweaver-jquery-manipulation-after,
+#editor-holder .cm-property.cm-dreamweaver-jquery-manipulation-after {
+  color: #E45B5B;
+}
+#editor-holder .cm-tag.cm-dreamweaver-jquery-manipulation-before,
+#editor-holder .cm-builtin.cm-dreamweaver-jquery-manipulation-before,
+#editor-holder .cm-qualifier.cm-dreamweaver-jquery-manipulation-before,
+#editor-holder .cm-variable.cm-dreamweaver-jquery-manipulation-before,
+#editor-holder .cm-variable-1.cm-dreamweaver-jquery-manipulation-before,
+#editor-holder .cm-variable-2.cm-dreamweaver-jquery-manipulation-before,
+#editor-holder .cm-string.cm-dreamweaver-jquery-manipulation-before,
+#editor-holder .cm-property.cm-dreamweaver-jquery-manipulation-before {
+  color: #E45B5B;
+}
+#editor-holder .cm-tag.cm-dreamweaver-jquery-manipulation-insertAfter,
+#editor-holder .cm-builtin.cm-dreamweaver-jquery-manipulation-insertAfter,
+#editor-holder .cm-qualifier.cm-dreamweaver-jquery-manipulation-insertAfter,
+#editor-holder .cm-variable.cm-dreamweaver-jquery-manipulation-insertAfter,
+#editor-holder .cm-variable-1.cm-dreamweaver-jquery-manipulation-insertAfter,
+#editor-holder .cm-variable-2.cm-dreamweaver-jquery-manipulation-insertAfter,
+#editor-holder .cm-string.cm-dreamweaver-jquery-manipulation-insertAfter,
+#editor-holder .cm-property.cm-dreamweaver-jquery-manipulation-insertAfter {
+  color: #E45B5B;
+}
+#editor-holder .cm-tag.cm-dreamweaver-jquery-manipulation-insertBefore,
+#editor-holder .cm-builtin.cm-dreamweaver-jquery-manipulation-insertBefore,
+#editor-holder .cm-qualifier.cm-dreamweaver-jquery-manipulation-insertBefore,
+#editor-holder .cm-variable.cm-dreamweaver-jquery-manipulation-insertBefore,
+#editor-holder .cm-variable-1.cm-dreamweaver-jquery-manipulation-insertBefore,
+#editor-holder .cm-variable-2.cm-dreamweaver-jquery-manipulation-insertBefore,
+#editor-holder .cm-string.cm-dreamweaver-jquery-manipulation-insertBefore,
+#editor-holder .cm-property.cm-dreamweaver-jquery-manipulation-insertBefore {
+  color: #E45B5B;
+}
+#editor-holder .cm-tag.cm-dreamweaver-jquery-manipulation-detach,
+#editor-holder .cm-builtin.cm-dreamweaver-jquery-manipulation-detach,
+#editor-holder .cm-qualifier.cm-dreamweaver-jquery-manipulation-detach,
+#editor-holder .cm-variable.cm-dreamweaver-jquery-manipulation-detach,
+#editor-holder .cm-variable-1.cm-dreamweaver-jquery-manipulation-detach,
+#editor-holder .cm-variable-2.cm-dreamweaver-jquery-manipulation-detach,
+#editor-holder .cm-string.cm-dreamweaver-jquery-manipulation-detach,
+#editor-holder .cm-property.cm-dreamweaver-jquery-manipulation-detach {
+  color: #E45B5B;
+}
+#editor-holder .cm-tag.cm-dreamweaver-jquery-manipulation-empty,
+#editor-holder .cm-builtin.cm-dreamweaver-jquery-manipulation-empty,
+#editor-holder .cm-qualifier.cm-dreamweaver-jquery-manipulation-empty,
+#editor-holder .cm-variable.cm-dreamweaver-jquery-manipulation-empty,
+#editor-holder .cm-variable-1.cm-dreamweaver-jquery-manipulation-empty,
+#editor-holder .cm-variable-2.cm-dreamweaver-jquery-manipulation-empty,
+#editor-holder .cm-string.cm-dreamweaver-jquery-manipulation-empty,
+#editor-holder .cm-property.cm-dreamweaver-jquery-manipulation-empty {
+  color: #E45B5B;
+}
+#editor-holder .cm-tag.cm-dreamweaver-jquery-manipulation-remove,
+#editor-holder .cm-builtin.cm-dreamweaver-jquery-manipulation-remove,
+#editor-holder .cm-qualifier.cm-dreamweaver-jquery-manipulation-remove,
+#editor-holder .cm-variable.cm-dreamweaver-jquery-manipulation-remove,
+#editor-holder .cm-variable-1.cm-dreamweaver-jquery-manipulation-remove,
+#editor-holder .cm-variable-2.cm-dreamweaver-jquery-manipulation-remove,
+#editor-holder .cm-string.cm-dreamweaver-jquery-manipulation-remove,
+#editor-holder .cm-property.cm-dreamweaver-jquery-manipulation-remove {
+  color: #E45B5B;
+}
+#editor-holder .cm-tag.cm-dreamweaver-jquery-manipulation-unwrap,
+#editor-holder .cm-builtin.cm-dreamweaver-jquery-manipulation-unwrap,
+#editor-holder .cm-qualifier.cm-dreamweaver-jquery-manipulation-unwrap,
+#editor-holder .cm-variable.cm-dreamweaver-jquery-manipulation-unwrap,
+#editor-holder .cm-variable-1.cm-dreamweaver-jquery-manipulation-unwrap,
+#editor-holder .cm-variable-2.cm-dreamweaver-jquery-manipulation-unwrap,
+#editor-holder .cm-string.cm-dreamweaver-jquery-manipulation-unwrap,
+#editor-holder .cm-property.cm-dreamweaver-jquery-manipulation-unwrap {
+  color: #E45B5B;
+}
+#editor-holder .cm-tag.cm-dreamweaver-jquery-manipulation-replaceAll,
+#editor-holder .cm-builtin.cm-dreamweaver-jquery-manipulation-replaceAll,
+#editor-holder .cm-qualifier.cm-dreamweaver-jquery-manipulation-replaceAll,
+#editor-holder .cm-variable.cm-dreamweaver-jquery-manipulation-replaceAll,
+#editor-holder .cm-variable-1.cm-dreamweaver-jquery-manipulation-replaceAll,
+#editor-holder .cm-variable-2.cm-dreamweaver-jquery-manipulation-replaceAll,
+#editor-holder .cm-string.cm-dreamweaver-jquery-manipulation-replaceAll,
+#editor-holder .cm-property.cm-dreamweaver-jquery-manipulation-replaceAll {
+  color: #E45B5B;
+}
+#editor-holder .cm-tag.cm-dreamweaver-jquery-manipulation-replaceWith,
+#editor-holder .cm-builtin.cm-dreamweaver-jquery-manipulation-replaceWith,
+#editor-holder .cm-qualifier.cm-dreamweaver-jquery-manipulation-replaceWith,
+#editor-holder .cm-variable.cm-dreamweaver-jquery-manipulation-replaceWith,
+#editor-holder .cm-variable-1.cm-dreamweaver-jquery-manipulation-replaceWith,
+#editor-holder .cm-variable-2.cm-dreamweaver-jquery-manipulation-replaceWith,
+#editor-holder .cm-string.cm-dreamweaver-jquery-manipulation-replaceWith,
+#editor-holder .cm-property.cm-dreamweaver-jquery-manipulation-replaceWith {
+  color: #E45B5B;
+}
+#editor-holder .cm-tag.cm-dreamweaver-jquery-traversing-eq,
+#editor-holder .cm-builtin.cm-dreamweaver-jquery-traversing-eq,
+#editor-holder .cm-qualifier.cm-dreamweaver-jquery-traversing-eq,
+#editor-holder .cm-variable.cm-dreamweaver-jquery-traversing-eq,
+#editor-holder .cm-variable-1.cm-dreamweaver-jquery-traversing-eq,
+#editor-holder .cm-variable-2.cm-dreamweaver-jquery-traversing-eq,
+#editor-holder .cm-string.cm-dreamweaver-jquery-traversing-eq,
+#editor-holder .cm-property.cm-dreamweaver-jquery-traversing-eq {
+  color: #E678DC;
+}
+#editor-holder .cm-tag.cm-dreamweaver-jquery-traversing-filter,
+#editor-holder .cm-builtin.cm-dreamweaver-jquery-traversing-filter,
+#editor-holder .cm-qualifier.cm-dreamweaver-jquery-traversing-filter,
+#editor-holder .cm-variable.cm-dreamweaver-jquery-traversing-filter,
+#editor-holder .cm-variable-1.cm-dreamweaver-jquery-traversing-filter,
+#editor-holder .cm-variable-2.cm-dreamweaver-jquery-traversing-filter,
+#editor-holder .cm-string.cm-dreamweaver-jquery-traversing-filter,
+#editor-holder .cm-property.cm-dreamweaver-jquery-traversing-filter {
+  color: #E678DC;
+}
+#editor-holder .cm-tag.cm-dreamweaver-jquery-traversing-first,
+#editor-holder .cm-builtin.cm-dreamweaver-jquery-traversing-first,
+#editor-holder .cm-qualifier.cm-dreamweaver-jquery-traversing-first,
+#editor-holder .cm-variable.cm-dreamweaver-jquery-traversing-first,
+#editor-holder .cm-variable-1.cm-dreamweaver-jquery-traversing-first,
+#editor-holder .cm-variable-2.cm-dreamweaver-jquery-traversing-first,
+#editor-holder .cm-string.cm-dreamweaver-jquery-traversing-first,
+#editor-holder .cm-property.cm-dreamweaver-jquery-traversing-first {
+  color: #E678DC;
+}
+#editor-holder .cm-tag.cm-dreamweaver-jquery-traversing-has,
+#editor-holder .cm-builtin.cm-dreamweaver-jquery-traversing-has,
+#editor-holder .cm-qualifier.cm-dreamweaver-jquery-traversing-has,
+#editor-holder .cm-variable.cm-dreamweaver-jquery-traversing-has,
+#editor-holder .cm-variable-1.cm-dreamweaver-jquery-traversing-has,
+#editor-holder .cm-variable-2.cm-dreamweaver-jquery-traversing-has,
+#editor-holder .cm-string.cm-dreamweaver-jquery-traversing-has,
+#editor-holder .cm-property.cm-dreamweaver-jquery-traversing-has {
+  color: #E678DC;
+}
+#editor-holder .cm-tag.cm-dreamweaver-jquery-traversing-is,
+#editor-holder .cm-builtin.cm-dreamweaver-jquery-traversing-is,
+#editor-holder .cm-qualifier.cm-dreamweaver-jquery-traversing-is,
+#editor-holder .cm-variable.cm-dreamweaver-jquery-traversing-is,
+#editor-holder .cm-variable-1.cm-dreamweaver-jquery-traversing-is,
+#editor-holder .cm-variable-2.cm-dreamweaver-jquery-traversing-is,
+#editor-holder .cm-string.cm-dreamweaver-jquery-traversing-is,
+#editor-holder .cm-property.cm-dreamweaver-jquery-traversing-is {
+  color: #E678DC;
+}
+#editor-holder .cm-tag.cm-dreamweaver-jquery-traversing-last,
+#editor-holder .cm-builtin.cm-dreamweaver-jquery-traversing-last,
+#editor-holder .cm-qualifier.cm-dreamweaver-jquery-traversing-last,
+#editor-holder .cm-variable.cm-dreamweaver-jquery-traversing-last,
+#editor-holder .cm-variable-1.cm-dreamweaver-jquery-traversing-last,
+#editor-holder .cm-variable-2.cm-dreamweaver-jquery-traversing-last,
+#editor-holder .cm-string.cm-dreamweaver-jquery-traversing-last,
+#editor-holder .cm-property.cm-dreamweaver-jquery-traversing-last {
+  color: #E678DC;
+}
+#editor-holder .cm-tag.cm-dreamweaver-jquery-traversing-map,
+#editor-holder .cm-builtin.cm-dreamweaver-jquery-traversing-map,
+#editor-holder .cm-qualifier.cm-dreamweaver-jquery-traversing-map,
+#editor-holder .cm-variable.cm-dreamweaver-jquery-traversing-map,
+#editor-holder .cm-variable-1.cm-dreamweaver-jquery-traversing-map,
+#editor-holder .cm-variable-2.cm-dreamweaver-jquery-traversing-map,
+#editor-holder .cm-string.cm-dreamweaver-jquery-traversing-map,
+#editor-holder .cm-property.cm-dreamweaver-jquery-traversing-map {
+  color: #E678DC;
+}
+#editor-holder .cm-tag.cm-dreamweaver-jquery-traversing-not,
+#editor-holder .cm-builtin.cm-dreamweaver-jquery-traversing-not,
+#editor-holder .cm-qualifier.cm-dreamweaver-jquery-traversing-not,
+#editor-holder .cm-variable.cm-dreamweaver-jquery-traversing-not,
+#editor-holder .cm-variable-1.cm-dreamweaver-jquery-traversing-not,
+#editor-holder .cm-variable-2.cm-dreamweaver-jquery-traversing-not,
+#editor-holder .cm-string.cm-dreamweaver-jquery-traversing-not,
+#editor-holder .cm-property.cm-dreamweaver-jquery-traversing-not {
+  color: #E678DC;
+}
+#editor-holder .cm-tag.cm-dreamweaver-jquery-traversing-slice,
+#editor-holder .cm-builtin.cm-dreamweaver-jquery-traversing-slice,
+#editor-holder .cm-qualifier.cm-dreamweaver-jquery-traversing-slice,
+#editor-holder .cm-variable.cm-dreamweaver-jquery-traversing-slice,
+#editor-holder .cm-variable-1.cm-dreamweaver-jquery-traversing-slice,
+#editor-holder .cm-variable-2.cm-dreamweaver-jquery-traversing-slice,
+#editor-holder .cm-string.cm-dreamweaver-jquery-traversing-slice,
+#editor-holder .cm-property.cm-dreamweaver-jquery-traversing-slice {
+  color: #E678DC;
+}
+#editor-holder .cm-tag.cm-dreamweaver-jquery-traversing-add,
+#editor-holder .cm-builtin.cm-dreamweaver-jquery-traversing-add,
+#editor-holder .cm-qualifier.cm-dreamweaver-jquery-traversing-add,
+#editor-holder .cm-variable.cm-dreamweaver-jquery-traversing-add,
+#editor-holder .cm-variable-1.cm-dreamweaver-jquery-traversing-add,
+#editor-holder .cm-variable-2.cm-dreamweaver-jquery-traversing-add,
+#editor-holder .cm-string.cm-dreamweaver-jquery-traversing-add,
+#editor-holder .cm-property.cm-dreamweaver-jquery-traversing-add {
+  color: #E678DC;
+}
+#editor-holder .cm-tag.cm-dreamweaver-jquery-traversing-addBack,
+#editor-holder .cm-builtin.cm-dreamweaver-jquery-traversing-addBack,
+#editor-holder .cm-qualifier.cm-dreamweaver-jquery-traversing-addBack,
+#editor-holder .cm-variable.cm-dreamweaver-jquery-traversing-addBack,
+#editor-holder .cm-variable-1.cm-dreamweaver-jquery-traversing-addBack,
+#editor-holder .cm-variable-2.cm-dreamweaver-jquery-traversing-addBack,
+#editor-holder .cm-string.cm-dreamweaver-jquery-traversing-addBack,
+#editor-holder .cm-property.cm-dreamweaver-jquery-traversing-addBack {
+  color: #E678DC;
+}
+#editor-holder .cm-tag.cm-dreamweaver-jquery-traversing-andSelf,
+#editor-holder .cm-builtin.cm-dreamweaver-jquery-traversing-andSelf,
+#editor-holder .cm-qualifier.cm-dreamweaver-jquery-traversing-andSelf,
+#editor-holder .cm-variable.cm-dreamweaver-jquery-traversing-andSelf,
+#editor-holder .cm-variable-1.cm-dreamweaver-jquery-traversing-andSelf,
+#editor-holder .cm-variable-2.cm-dreamweaver-jquery-traversing-andSelf,
+#editor-holder .cm-string.cm-dreamweaver-jquery-traversing-andSelf,
+#editor-holder .cm-property.cm-dreamweaver-jquery-traversing-andSelf {
+  color: #E678DC;
+}
+#editor-holder .cm-tag.cm-dreamweaver-jquery-traversing-contents,
+#editor-holder .cm-builtin.cm-dreamweaver-jquery-traversing-contents,
+#editor-holder .cm-qualifier.cm-dreamweaver-jquery-traversing-contents,
+#editor-holder .cm-variable.cm-dreamweaver-jquery-traversing-contents,
+#editor-holder .cm-variable-1.cm-dreamweaver-jquery-traversing-contents,
+#editor-holder .cm-variable-2.cm-dreamweaver-jquery-traversing-contents,
+#editor-holder .cm-string.cm-dreamweaver-jquery-traversing-contents,
+#editor-holder .cm-property.cm-dreamweaver-jquery-traversing-contents {
+  color: #E678DC;
+}
+#editor-holder .cm-tag.cm-dreamweaver-jquery-traversing-each,
+#editor-holder .cm-builtin.cm-dreamweaver-jquery-traversing-each,
+#editor-holder .cm-qualifier.cm-dreamweaver-jquery-traversing-each,
+#editor-holder .cm-variable.cm-dreamweaver-jquery-traversing-each,
+#editor-holder .cm-variable-1.cm-dreamweaver-jquery-traversing-each,
+#editor-holder .cm-variable-2.cm-dreamweaver-jquery-traversing-each,
+#editor-holder .cm-string.cm-dreamweaver-jquery-traversing-each,
+#editor-holder .cm-property.cm-dreamweaver-jquery-traversing-each {
+  color: #E678DC;
+}
+#editor-holder .cm-tag.cm-dreamweaver-jquery-traversing-end,
+#editor-holder .cm-builtin.cm-dreamweaver-jquery-traversing-end,
+#editor-holder .cm-qualifier.cm-dreamweaver-jquery-traversing-end,
+#editor-holder .cm-variable.cm-dreamweaver-jquery-traversing-end,
+#editor-holder .cm-variable-1.cm-dreamweaver-jquery-traversing-end,
+#editor-holder .cm-variable-2.cm-dreamweaver-jquery-traversing-end,
+#editor-holder .cm-string.cm-dreamweaver-jquery-traversing-end,
+#editor-holder .cm-property.cm-dreamweaver-jquery-traversing-end {
+  color: #E678DC;
+}
+#editor-holder .cm-tag.cm-dreamweaver-jquery-traversing-children,
+#editor-holder .cm-builtin.cm-dreamweaver-jquery-traversing-children,
+#editor-holder .cm-qualifier.cm-dreamweaver-jquery-traversing-children,
+#editor-holder .cm-variable.cm-dreamweaver-jquery-traversing-children,
+#editor-holder .cm-variable-1.cm-dreamweaver-jquery-traversing-children,
+#editor-holder .cm-variable-2.cm-dreamweaver-jquery-traversing-children,
+#editor-holder .cm-string.cm-dreamweaver-jquery-traversing-children,
+#editor-holder .cm-property.cm-dreamweaver-jquery-traversing-children {
+  color: #E678DC;
+}
+#editor-holder .cm-tag.cm-dreamweaver-jquery-traversing-closest,
+#editor-holder .cm-builtin.cm-dreamweaver-jquery-traversing-closest,
+#editor-holder .cm-qualifier.cm-dreamweaver-jquery-traversing-closest,
+#editor-holder .cm-variable.cm-dreamweaver-jquery-traversing-closest,
+#editor-holder .cm-variable-1.cm-dreamweaver-jquery-traversing-closest,
+#editor-holder .cm-variable-2.cm-dreamweaver-jquery-traversing-closest,
+#editor-holder .cm-string.cm-dreamweaver-jquery-traversing-closest,
+#editor-holder .cm-property.cm-dreamweaver-jquery-traversing-closest {
+  color: #E678DC;
+}
+#editor-holder .cm-tag.cm-dreamweaver-jquery-traversing-find,
+#editor-holder .cm-builtin.cm-dreamweaver-jquery-traversing-find,
+#editor-holder .cm-qualifier.cm-dreamweaver-jquery-traversing-find,
+#editor-holder .cm-variable.cm-dreamweaver-jquery-traversing-find,
+#editor-holder .cm-variable-1.cm-dreamweaver-jquery-traversing-find,
+#editor-holder .cm-variable-2.cm-dreamweaver-jquery-traversing-find,
+#editor-holder .cm-string.cm-dreamweaver-jquery-traversing-find,
+#editor-holder .cm-property.cm-dreamweaver-jquery-traversing-find {
+  color: #E678DC;
+}
+#editor-holder .cm-tag.cm-dreamweaver-jquery-traversing-next,
+#editor-holder .cm-builtin.cm-dreamweaver-jquery-traversing-next,
+#editor-holder .cm-qualifier.cm-dreamweaver-jquery-traversing-next,
+#editor-holder .cm-variable.cm-dreamweaver-jquery-traversing-next,
+#editor-holder .cm-variable-1.cm-dreamweaver-jquery-traversing-next,
+#editor-holder .cm-variable-2.cm-dreamweaver-jquery-traversing-next,
+#editor-holder .cm-string.cm-dreamweaver-jquery-traversing-next,
+#editor-holder .cm-property.cm-dreamweaver-jquery-traversing-next {
+  color: #E678DC;
+}
+#editor-holder .cm-tag.cm-dreamweaver-jquery-traversing-nextAll,
+#editor-holder .cm-builtin.cm-dreamweaver-jquery-traversing-nextAll,
+#editor-holder .cm-qualifier.cm-dreamweaver-jquery-traversing-nextAll,
+#editor-holder .cm-variable.cm-dreamweaver-jquery-traversing-nextAll,
+#editor-holder .cm-variable-1.cm-dreamweaver-jquery-traversing-nextAll,
+#editor-holder .cm-variable-2.cm-dreamweaver-jquery-traversing-nextAll,
+#editor-holder .cm-string.cm-dreamweaver-jquery-traversing-nextAll,
+#editor-holder .cm-property.cm-dreamweaver-jquery-traversing-nextAll {
+  color: #E678DC;
+}
+#editor-holder .cm-tag.cm-dreamweaver-jquery-traversing-nextUntil,
+#editor-holder .cm-builtin.cm-dreamweaver-jquery-traversing-nextUntil,
+#editor-holder .cm-qualifier.cm-dreamweaver-jquery-traversing-nextUntil,
+#editor-holder .cm-variable.cm-dreamweaver-jquery-traversing-nextUntil,
+#editor-holder .cm-variable-1.cm-dreamweaver-jquery-traversing-nextUntil,
+#editor-holder .cm-variable-2.cm-dreamweaver-jquery-traversing-nextUntil,
+#editor-holder .cm-string.cm-dreamweaver-jquery-traversing-nextUntil,
+#editor-holder .cm-property.cm-dreamweaver-jquery-traversing-nextUntil {
+  color: #E678DC;
+}
+#editor-holder .cm-tag.cm-dreamweaver-jquery-traversing-parent,
+#editor-holder .cm-builtin.cm-dreamweaver-jquery-traversing-parent,
+#editor-holder .cm-qualifier.cm-dreamweaver-jquery-traversing-parent,
+#editor-holder .cm-variable.cm-dreamweaver-jquery-traversing-parent,
+#editor-holder .cm-variable-1.cm-dreamweaver-jquery-traversing-parent,
+#editor-holder .cm-variable-2.cm-dreamweaver-jquery-traversing-parent,
+#editor-holder .cm-string.cm-dreamweaver-jquery-traversing-parent,
+#editor-holder .cm-property.cm-dreamweaver-jquery-traversing-parent {
+  color: #E678DC;
+}
+#editor-holder .cm-tag.cm-dreamweaver-jquery-traversing-parents,
+#editor-holder .cm-builtin.cm-dreamweaver-jquery-traversing-parents,
+#editor-holder .cm-qualifier.cm-dreamweaver-jquery-traversing-parents,
+#editor-holder .cm-variable.cm-dreamweaver-jquery-traversing-parents,
+#editor-holder .cm-variable-1.cm-dreamweaver-jquery-traversing-parents,
+#editor-holder .cm-variable-2.cm-dreamweaver-jquery-traversing-parents,
+#editor-holder .cm-string.cm-dreamweaver-jquery-traversing-parents,
+#editor-holder .cm-property.cm-dreamweaver-jquery-traversing-parents {
+  color: #E678DC;
+}
+#editor-holder .cm-tag.cm-dreamweaver-jquery-traversing-parentsUntil,
+#editor-holder .cm-builtin.cm-dreamweaver-jquery-traversing-parentsUntil,
+#editor-holder .cm-qualifier.cm-dreamweaver-jquery-traversing-parentsUntil,
+#editor-holder .cm-variable.cm-dreamweaver-jquery-traversing-parentsUntil,
+#editor-holder .cm-variable-1.cm-dreamweaver-jquery-traversing-parentsUntil,
+#editor-holder .cm-variable-2.cm-dreamweaver-jquery-traversing-parentsUntil,
+#editor-holder .cm-string.cm-dreamweaver-jquery-traversing-parentsUntil,
+#editor-holder .cm-property.cm-dreamweaver-jquery-traversing-parentsUntil {
+  color: #E678DC;
+}
+#editor-holder .cm-tag.cm-dreamweaver-jquery-traversing-prev,
+#editor-holder .cm-builtin.cm-dreamweaver-jquery-traversing-prev,
+#editor-holder .cm-qualifier.cm-dreamweaver-jquery-traversing-prev,
+#editor-holder .cm-variable.cm-dreamweaver-jquery-traversing-prev,
+#editor-holder .cm-variable-1.cm-dreamweaver-jquery-traversing-prev,
+#editor-holder .cm-variable-2.cm-dreamweaver-jquery-traversing-prev,
+#editor-holder .cm-string.cm-dreamweaver-jquery-traversing-prev,
+#editor-holder .cm-property.cm-dreamweaver-jquery-traversing-prev {
+  color: #E678DC;
+}
+#editor-holder .cm-tag.cm-dreamweaver-jquery-traversing-prevAll,
+#editor-holder .cm-builtin.cm-dreamweaver-jquery-traversing-prevAll,
+#editor-holder .cm-qualifier.cm-dreamweaver-jquery-traversing-prevAll,
+#editor-holder .cm-variable.cm-dreamweaver-jquery-traversing-prevAll,
+#editor-holder .cm-variable-1.cm-dreamweaver-jquery-traversing-prevAll,
+#editor-holder .cm-variable-2.cm-dreamweaver-jquery-traversing-prevAll,
+#editor-holder .cm-string.cm-dreamweaver-jquery-traversing-prevAll,
+#editor-holder .cm-property.cm-dreamweaver-jquery-traversing-prevAll {
+  color: #E678DC;
+}
+#editor-holder .cm-tag.cm-dreamweaver-jquery-traversing-prevUntil,
+#editor-holder .cm-builtin.cm-dreamweaver-jquery-traversing-prevUntil,
+#editor-holder .cm-qualifier.cm-dreamweaver-jquery-traversing-prevUntil,
+#editor-holder .cm-variable.cm-dreamweaver-jquery-traversing-prevUntil,
+#editor-holder .cm-variable-1.cm-dreamweaver-jquery-traversing-prevUntil,
+#editor-holder .cm-variable-2.cm-dreamweaver-jquery-traversing-prevUntil,
+#editor-holder .cm-string.cm-dreamweaver-jquery-traversing-prevUntil,
+#editor-holder .cm-property.cm-dreamweaver-jquery-traversing-prevUntil {
+  color: #E678DC;
+}
+#editor-holder .cm-tag.cm-dreamweaver-jquery-traversing-siblings,
+#editor-holder .cm-builtin.cm-dreamweaver-jquery-traversing-siblings,
+#editor-holder .cm-qualifier.cm-dreamweaver-jquery-traversing-siblings,
+#editor-holder .cm-variable.cm-dreamweaver-jquery-traversing-siblings,
+#editor-holder .cm-variable-1.cm-dreamweaver-jquery-traversing-siblings,
+#editor-holder .cm-variable-2.cm-dreamweaver-jquery-traversing-siblings,
+#editor-holder .cm-string.cm-dreamweaver-jquery-traversing-siblings,
+#editor-holder .cm-property.cm-dreamweaver-jquery-traversing-siblings {
+  color: #E678DC;
+}
+#editor-holder .cm-tag.cm-dreamweaver-jquery-events-error,
+#editor-holder .cm-builtin.cm-dreamweaver-jquery-events-error,
+#editor-holder .cm-qualifier.cm-dreamweaver-jquery-events-error,
+#editor-holder .cm-variable.cm-dreamweaver-jquery-events-error,
+#editor-holder .cm-variable-1.cm-dreamweaver-jquery-events-error,
+#editor-holder .cm-variable-2.cm-dreamweaver-jquery-events-error,
+#editor-holder .cm-string.cm-dreamweaver-jquery-events-error,
+#editor-holder .cm-property.cm-dreamweaver-jquery-events-error {
+  color: #6B96D5;
+}
+#editor-holder .cm-tag.cm-dreamweaver-jquery-events-resize,
+#editor-holder .cm-builtin.cm-dreamweaver-jquery-events-resize,
+#editor-holder .cm-qualifier.cm-dreamweaver-jquery-events-resize,
+#editor-holder .cm-variable.cm-dreamweaver-jquery-events-resize,
+#editor-holder .cm-variable-1.cm-dreamweaver-jquery-events-resize,
+#editor-holder .cm-variable-2.cm-dreamweaver-jquery-events-resize,
+#editor-holder .cm-string.cm-dreamweaver-jquery-events-resize,
+#editor-holder .cm-property.cm-dreamweaver-jquery-events-resize {
+  color: #6B96D5;
+}
+#editor-holder .cm-tag.cm-dreamweaver-jquery-events-scroll,
+#editor-holder .cm-builtin.cm-dreamweaver-jquery-events-scroll,
+#editor-holder .cm-qualifier.cm-dreamweaver-jquery-events-scroll,
+#editor-holder .cm-variable.cm-dreamweaver-jquery-events-scroll,
+#editor-holder .cm-variable-1.cm-dreamweaver-jquery-events-scroll,
+#editor-holder .cm-variable-2.cm-dreamweaver-jquery-events-scroll,
+#editor-holder .cm-string.cm-dreamweaver-jquery-events-scroll,
+#editor-holder .cm-property.cm-dreamweaver-jquery-events-scroll {
+  color: #6B96D5;
+}
+#editor-holder .cm-tag.cm-dreamweaver-jquery-events-load,
+#editor-holder .cm-builtin.cm-dreamweaver-jquery-events-load,
+#editor-holder .cm-qualifier.cm-dreamweaver-jquery-events-load,
+#editor-holder .cm-variable.cm-dreamweaver-jquery-events-load,
+#editor-holder .cm-variable-1.cm-dreamweaver-jquery-events-load,
+#editor-holder .cm-variable-2.cm-dreamweaver-jquery-events-load,
+#editor-holder .cm-string.cm-dreamweaver-jquery-events-load,
+#editor-holder .cm-property.cm-dreamweaver-jquery-events-load {
+  color: #6B96D5;
+}
+#editor-holder .cm-tag.cm-dreamweaver-jquery-events-ready,
+#editor-holder .cm-builtin.cm-dreamweaver-jquery-events-ready,
+#editor-holder .cm-qualifier.cm-dreamweaver-jquery-events-ready,
+#editor-holder .cm-variable.cm-dreamweaver-jquery-events-ready,
+#editor-holder .cm-variable-1.cm-dreamweaver-jquery-events-ready,
+#editor-holder .cm-variable-2.cm-dreamweaver-jquery-events-ready,
+#editor-holder .cm-string.cm-dreamweaver-jquery-events-ready,
+#editor-holder .cm-property.cm-dreamweaver-jquery-events-ready {
+  color: #6B96D5;
+}
+#editor-holder .cm-tag.cm-dreamweaver-jquery-events-unload,
+#editor-holder .cm-builtin.cm-dreamweaver-jquery-events-unload,
+#editor-holder .cm-qualifier.cm-dreamweaver-jquery-events-unload,
+#editor-holder .cm-variable.cm-dreamweaver-jquery-events-unload,
+#editor-holder .cm-variable-1.cm-dreamweaver-jquery-events-unload,
+#editor-holder .cm-variable-2.cm-dreamweaver-jquery-events-unload,
+#editor-holder .cm-string.cm-dreamweaver-jquery-events-unload,
+#editor-holder .cm-property.cm-dreamweaver-jquery-events-unload {
+  color: #6B96D5;
+}
+#editor-holder .cm-tag.cm-dreamweaver-jquery-events-bind,
+#editor-holder .cm-builtin.cm-dreamweaver-jquery-events-bind,
+#editor-holder .cm-qualifier.cm-dreamweaver-jquery-events-bind,
+#editor-holder .cm-variable.cm-dreamweaver-jquery-events-bind,
+#editor-holder .cm-variable-1.cm-dreamweaver-jquery-events-bind,
+#editor-holder .cm-variable-2.cm-dreamweaver-jquery-events-bind,
+#editor-holder .cm-string.cm-dreamweaver-jquery-events-bind,
+#editor-holder .cm-property.cm-dreamweaver-jquery-events-bind {
+  color: #6B96D5;
+}
+#editor-holder .cm-tag.cm-dreamweaver-jquery-events-delegate,
+#editor-holder .cm-builtin.cm-dreamweaver-jquery-events-delegate,
+#editor-holder .cm-qualifier.cm-dreamweaver-jquery-events-delegate,
+#editor-holder .cm-variable.cm-dreamweaver-jquery-events-delegate,
+#editor-holder .cm-variable-1.cm-dreamweaver-jquery-events-delegate,
+#editor-holder .cm-variable-2.cm-dreamweaver-jquery-events-delegate,
+#editor-holder .cm-string.cm-dreamweaver-jquery-events-delegate,
+#editor-holder .cm-property.cm-dreamweaver-jquery-events-delegate {
+  color: #6B96D5;
+}
+#editor-holder .cm-tag.cm-dreamweaver-jquery-events-die,
+#editor-holder .cm-builtin.cm-dreamweaver-jquery-events-die,
+#editor-holder .cm-qualifier.cm-dreamweaver-jquery-events-die,
+#editor-holder .cm-variable.cm-dreamweaver-jquery-events-die,
+#editor-holder .cm-variable-1.cm-dreamweaver-jquery-events-die,
+#editor-holder .cm-variable-2.cm-dreamweaver-jquery-events-die,
+#editor-holder .cm-string.cm-dreamweaver-jquery-events-die,
+#editor-holder .cm-property.cm-dreamweaver-jquery-events-die {
+  color: #6B96D5;
+}
+#editor-holder .cm-tag.cm-dreamweaver-jquery-events-live,
+#editor-holder .cm-builtin.cm-dreamweaver-jquery-events-live,
+#editor-holder .cm-qualifier.cm-dreamweaver-jquery-events-live,
+#editor-holder .cm-variable.cm-dreamweaver-jquery-events-live,
+#editor-holder .cm-variable-1.cm-dreamweaver-jquery-events-live,
+#editor-holder .cm-variable-2.cm-dreamweaver-jquery-events-live,
+#editor-holder .cm-string.cm-dreamweaver-jquery-events-live,
+#editor-holder .cm-property.cm-dreamweaver-jquery-events-live {
+  color: #6B96D5;
+}
+#editor-holder .cm-tag.cm-dreamweaver-jquery-events-off,
+#editor-holder .cm-builtin.cm-dreamweaver-jquery-events-off,
+#editor-holder .cm-qualifier.cm-dreamweaver-jquery-events-off,
+#editor-holder .cm-variable.cm-dreamweaver-jquery-events-off,
+#editor-holder .cm-variable-1.cm-dreamweaver-jquery-events-off,
+#editor-holder .cm-variable-2.cm-dreamweaver-jquery-events-off,
+#editor-holder .cm-string.cm-dreamweaver-jquery-events-off,
+#editor-holder .cm-property.cm-dreamweaver-jquery-events-off {
+  color: #6B96D5;
+}
+#editor-holder .cm-tag.cm-dreamweaver-jquery-events-on,
+#editor-holder .cm-builtin.cm-dreamweaver-jquery-events-on,
+#editor-holder .cm-qualifier.cm-dreamweaver-jquery-events-on,
+#editor-holder .cm-variable.cm-dreamweaver-jquery-events-on,
+#editor-holder .cm-variable-1.cm-dreamweaver-jquery-events-on,
+#editor-holder .cm-variable-2.cm-dreamweaver-jquery-events-on,
+#editor-holder .cm-string.cm-dreamweaver-jquery-events-on,
+#editor-holder .cm-property.cm-dreamweaver-jquery-events-on {
+  color: #6B96D5;
+}
+#editor-holder .cm-tag.cm-dreamweaver-jquery-events-one,
+#editor-holder .cm-builtin.cm-dreamweaver-jquery-events-one,
+#editor-holder .cm-qualifier.cm-dreamweaver-jquery-events-one,
+#editor-holder .cm-variable.cm-dreamweaver-jquery-events-one,
+#editor-holder .cm-variable-1.cm-dreamweaver-jquery-events-one,
+#editor-holder .cm-variable-2.cm-dreamweaver-jquery-events-one,
+#editor-holder .cm-string.cm-dreamweaver-jquery-events-one,
+#editor-holder .cm-property.cm-dreamweaver-jquery-events-one {
+  color: #6B96D5;
+}
+#editor-holder .cm-tag.cm-dreamweaver-jquery-events-trigger,
+#editor-holder .cm-builtin.cm-dreamweaver-jquery-events-trigger,
+#editor-holder .cm-qualifier.cm-dreamweaver-jquery-events-trigger,
+#editor-holder .cm-variable.cm-dreamweaver-jquery-events-trigger,
+#editor-holder .cm-variable-1.cm-dreamweaver-jquery-events-trigger,
+#editor-holder .cm-variable-2.cm-dreamweaver-jquery-events-trigger,
+#editor-holder .cm-string.cm-dreamweaver-jquery-events-trigger,
+#editor-holder .cm-property.cm-dreamweaver-jquery-events-trigger {
+  color: #6B96D5;
+}
+#editor-holder .cm-tag.cm-dreamweaver-jquery-events-triggerHandler,
+#editor-holder .cm-builtin.cm-dreamweaver-jquery-events-triggerHandler,
+#editor-holder .cm-qualifier.cm-dreamweaver-jquery-events-triggerHandler,
+#editor-holder .cm-variable.cm-dreamweaver-jquery-events-triggerHandler,
+#editor-holder .cm-variable-1.cm-dreamweaver-jquery-events-triggerHandler,
+#editor-holder .cm-variable-2.cm-dreamweaver-jquery-events-triggerHandler,
+#editor-holder .cm-string.cm-dreamweaver-jquery-events-triggerHandler,
+#editor-holder .cm-property.cm-dreamweaver-jquery-events-triggerHandler {
+  color: #6B96D5;
+}
+#editor-holder .cm-tag.cm-dreamweaver-jquery-events-unbind,
+#editor-holder .cm-builtin.cm-dreamweaver-jquery-events-unbind,
+#editor-holder .cm-qualifier.cm-dreamweaver-jquery-events-unbind,
+#editor-holder .cm-variable.cm-dreamweaver-jquery-events-unbind,
+#editor-holder .cm-variable-1.cm-dreamweaver-jquery-events-unbind,
+#editor-holder .cm-variable-2.cm-dreamweaver-jquery-events-unbind,
+#editor-holder .cm-string.cm-dreamweaver-jquery-events-unbind,
+#editor-holder .cm-property.cm-dreamweaver-jquery-events-unbind {
+  color: #6B96D5;
+}
+#editor-holder .cm-tag.cm-dreamweaver-jquery-events-undelegate,
+#editor-holder .cm-builtin.cm-dreamweaver-jquery-events-undelegate,
+#editor-holder .cm-qualifier.cm-dreamweaver-jquery-events-undelegate,
+#editor-holder .cm-variable.cm-dreamweaver-jquery-events-undelegate,
+#editor-holder .cm-variable-1.cm-dreamweaver-jquery-events-undelegate,
+#editor-holder .cm-variable-2.cm-dreamweaver-jquery-events-undelegate,
+#editor-holder .cm-string.cm-dreamweaver-jquery-events-undelegate,
+#editor-holder .cm-property.cm-dreamweaver-jquery-events-undelegate {
+  color: #6B96D5;
+}
+#editor-holder .cm-tag.cm-dreamweaver-jquery-events-blur,
+#editor-holder .cm-builtin.cm-dreamweaver-jquery-events-blur,
+#editor-holder .cm-qualifier.cm-dreamweaver-jquery-events-blur,
+#editor-holder .cm-variable.cm-dreamweaver-jquery-events-blur,
+#editor-holder .cm-variable-1.cm-dreamweaver-jquery-events-blur,
+#editor-holder .cm-variable-2.cm-dreamweaver-jquery-events-blur,
+#editor-holder .cm-string.cm-dreamweaver-jquery-events-blur,
+#editor-holder .cm-property.cm-dreamweaver-jquery-events-blur {
+  color: #6B96D5;
+}
+#editor-holder .cm-tag.cm-dreamweaver-jquery-events-change,
+#editor-holder .cm-builtin.cm-dreamweaver-jquery-events-change,
+#editor-holder .cm-qualifier.cm-dreamweaver-jquery-events-change,
+#editor-holder .cm-variable.cm-dreamweaver-jquery-events-change,
+#editor-holder .cm-variable-1.cm-dreamweaver-jquery-events-change,
+#editor-holder .cm-variable-2.cm-dreamweaver-jquery-events-change,
+#editor-holder .cm-string.cm-dreamweaver-jquery-events-change,
+#editor-holder .cm-property.cm-dreamweaver-jquery-events-change {
+  color: #6B96D5;
+}
+#editor-holder .cm-tag.cm-dreamweaver-jquery-events-focus,
+#editor-holder .cm-builtin.cm-dreamweaver-jquery-events-focus,
+#editor-holder .cm-qualifier.cm-dreamweaver-jquery-events-focus,
+#editor-holder .cm-variable.cm-dreamweaver-jquery-events-focus,
+#editor-holder .cm-variable-1.cm-dreamweaver-jquery-events-focus,
+#editor-holder .cm-variable-2.cm-dreamweaver-jquery-events-focus,
+#editor-holder .cm-string.cm-dreamweaver-jquery-events-focus,
+#editor-holder .cm-property.cm-dreamweaver-jquery-events-focus {
+  color: #6B96D5;
+}
+#editor-holder .cm-tag.cm-dreamweaver-jquery-events-focusin,
+#editor-holder .cm-builtin.cm-dreamweaver-jquery-events-focusin,
+#editor-holder .cm-qualifier.cm-dreamweaver-jquery-events-focusin,
+#editor-holder .cm-variable.cm-dreamweaver-jquery-events-focusin,
+#editor-holder .cm-variable-1.cm-dreamweaver-jquery-events-focusin,
+#editor-holder .cm-variable-2.cm-dreamweaver-jquery-events-focusin,
+#editor-holder .cm-string.cm-dreamweaver-jquery-events-focusin,
+#editor-holder .cm-property.cm-dreamweaver-jquery-events-focusin {
+  color: #6B96D5;
+}
+#editor-holder .cm-tag.cm-dreamweaver-jquery-events-focusout,
+#editor-holder .cm-builtin.cm-dreamweaver-jquery-events-focusout,
+#editor-holder .cm-qualifier.cm-dreamweaver-jquery-events-focusout,
+#editor-holder .cm-variable.cm-dreamweaver-jquery-events-focusout,
+#editor-holder .cm-variable-1.cm-dreamweaver-jquery-events-focusout,
+#editor-holder .cm-variable-2.cm-dreamweaver-jquery-events-focusout,
+#editor-holder .cm-string.cm-dreamweaver-jquery-events-focusout,
+#editor-holder .cm-property.cm-dreamweaver-jquery-events-focusout {
+  color: #6B96D5;
+}
+#editor-holder .cm-tag.cm-dreamweaver-jquery-events-select,
+#editor-holder .cm-builtin.cm-dreamweaver-jquery-events-select,
+#editor-holder .cm-qualifier.cm-dreamweaver-jquery-events-select,
+#editor-holder .cm-variable.cm-dreamweaver-jquery-events-select,
+#editor-holder .cm-variable-1.cm-dreamweaver-jquery-events-select,
+#editor-holder .cm-variable-2.cm-dreamweaver-jquery-events-select,
+#editor-holder .cm-string.cm-dreamweaver-jquery-events-select,
+#editor-holder .cm-property.cm-dreamweaver-jquery-events-select {
+  color: #6B96D5;
+}
+#editor-holder .cm-tag.cm-dreamweaver-jquery-events-submit,
+#editor-holder .cm-builtin.cm-dreamweaver-jquery-events-submit,
+#editor-holder .cm-qualifier.cm-dreamweaver-jquery-events-submit,
+#editor-holder .cm-variable.cm-dreamweaver-jquery-events-submit,
+#editor-holder .cm-variable-1.cm-dreamweaver-jquery-events-submit,
+#editor-holder .cm-variable-2.cm-dreamweaver-jquery-events-submit,
+#editor-holder .cm-string.cm-dreamweaver-jquery-events-submit,
+#editor-holder .cm-property.cm-dreamweaver-jquery-events-submit {
+  color: #6B96D5;
+}
+#editor-holder .cm-tag.cm-dreamweaver-jquery-events-keydown,
+#editor-holder .cm-builtin.cm-dreamweaver-jquery-events-keydown,
+#editor-holder .cm-qualifier.cm-dreamweaver-jquery-events-keydown,
+#editor-holder .cm-variable.cm-dreamweaver-jquery-events-keydown,
+#editor-holder .cm-variable-1.cm-dreamweaver-jquery-events-keydown,
+#editor-holder .cm-variable-2.cm-dreamweaver-jquery-events-keydown,
+#editor-holder .cm-string.cm-dreamweaver-jquery-events-keydown,
+#editor-holder .cm-property.cm-dreamweaver-jquery-events-keydown {
+  color: #6B96D5;
+}
+#editor-holder .cm-tag.cm-dreamweaver-jquery-events-keypress,
+#editor-holder .cm-builtin.cm-dreamweaver-jquery-events-keypress,
+#editor-holder .cm-qualifier.cm-dreamweaver-jquery-events-keypress,
+#editor-holder .cm-variable.cm-dreamweaver-jquery-events-keypress,
+#editor-holder .cm-variable-1.cm-dreamweaver-jquery-events-keypress,
+#editor-holder .cm-variable-2.cm-dreamweaver-jquery-events-keypress,
+#editor-holder .cm-string.cm-dreamweaver-jquery-events-keypress,
+#editor-holder .cm-property.cm-dreamweaver-jquery-events-keypress {
+  color: #6B96D5;
+}
+#editor-holder .cm-tag.cm-dreamweaver-jquery-events-keyup,
+#editor-holder .cm-builtin.cm-dreamweaver-jquery-events-keyup,
+#editor-holder .cm-qualifier.cm-dreamweaver-jquery-events-keyup,
+#editor-holder .cm-variable.cm-dreamweaver-jquery-events-keyup,
+#editor-holder .cm-variable-1.cm-dreamweaver-jquery-events-keyup,
+#editor-holder .cm-variable-2.cm-dreamweaver-jquery-events-keyup,
+#editor-holder .cm-string.cm-dreamweaver-jquery-events-keyup,
+#editor-holder .cm-property.cm-dreamweaver-jquery-events-keyup {
+  color: #6B96D5;
+}
+#editor-holder .cm-tag.cm-dreamweaver-jquery-events-click,
+#editor-holder .cm-builtin.cm-dreamweaver-jquery-events-click,
+#editor-holder .cm-qualifier.cm-dreamweaver-jquery-events-click,
+#editor-holder .cm-variable.cm-dreamweaver-jquery-events-click,
+#editor-holder .cm-variable-1.cm-dreamweaver-jquery-events-click,
+#editor-holder .cm-variable-2.cm-dreamweaver-jquery-events-click,
+#editor-holder .cm-string.cm-dreamweaver-jquery-events-click,
+#editor-holder .cm-property.cm-dreamweaver-jquery-events-click {
+  color: #6B96D5;
+}
+#editor-holder .cm-tag.cm-dreamweaver-jquery-events-contextMenu,
+#editor-holder .cm-builtin.cm-dreamweaver-jquery-events-contextMenu,
+#editor-holder .cm-qualifier.cm-dreamweaver-jquery-events-contextMenu,
+#editor-holder .cm-variable.cm-dreamweaver-jquery-events-contextMenu,
+#editor-holder .cm-variable-1.cm-dreamweaver-jquery-events-contextMenu,
+#editor-holder .cm-variable-2.cm-dreamweaver-jquery-events-contextMenu,
+#editor-holder .cm-string.cm-dreamweaver-jquery-events-contextMenu,
+#editor-holder .cm-property.cm-dreamweaver-jquery-events-contextMenu {
+  color: #6B96D5;
+}
+#editor-holder .cm-tag.cm-dreamweaver-jquery-events-dblclick,
+#editor-holder .cm-builtin.cm-dreamweaver-jquery-events-dblclick,
+#editor-holder .cm-qualifier.cm-dreamweaver-jquery-events-dblclick,
+#editor-holder .cm-variable.cm-dreamweaver-jquery-events-dblclick,
+#editor-holder .cm-variable-1.cm-dreamweaver-jquery-events-dblclick,
+#editor-holder .cm-variable-2.cm-dreamweaver-jquery-events-dblclick,
+#editor-holder .cm-string.cm-dreamweaver-jquery-events-dblclick,
+#editor-holder .cm-property.cm-dreamweaver-jquery-events-dblclick {
+  color: #6B96D5;
+}
+#editor-holder .cm-tag.cm-dreamweaver-jquery-events-hover,
+#editor-holder .cm-builtin.cm-dreamweaver-jquery-events-hover,
+#editor-holder .cm-qualifier.cm-dreamweaver-jquery-events-hover,
+#editor-holder .cm-variable.cm-dreamweaver-jquery-events-hover,
+#editor-holder .cm-variable-1.cm-dreamweaver-jquery-events-hover,
+#editor-holder .cm-variable-2.cm-dreamweaver-jquery-events-hover,
+#editor-holder .cm-string.cm-dreamweaver-jquery-events-hover,
+#editor-holder .cm-property.cm-dreamweaver-jquery-events-hover {
+  color: #6B96D5;
+}
+#editor-holder .cm-tag.cm-dreamweaver-jquery-events-mousedown,
+#editor-holder .cm-builtin.cm-dreamweaver-jquery-events-mousedown,
+#editor-holder .cm-qualifier.cm-dreamweaver-jquery-events-mousedown,
+#editor-holder .cm-variable.cm-dreamweaver-jquery-events-mousedown,
+#editor-holder .cm-variable-1.cm-dreamweaver-jquery-events-mousedown,
+#editor-holder .cm-variable-2.cm-dreamweaver-jquery-events-mousedown,
+#editor-holder .cm-string.cm-dreamweaver-jquery-events-mousedown,
+#editor-holder .cm-property.cm-dreamweaver-jquery-events-mousedown {
+  color: #6B96D5;
+}
+#editor-holder .cm-tag.cm-dreamweaver-jquery-events-mouseenter,
+#editor-holder .cm-builtin.cm-dreamweaver-jquery-events-mouseenter,
+#editor-holder .cm-qualifier.cm-dreamweaver-jquery-events-mouseenter,
+#editor-holder .cm-variable.cm-dreamweaver-jquery-events-mouseenter,
+#editor-holder .cm-variable-1.cm-dreamweaver-jquery-events-mouseenter,
+#editor-holder .cm-variable-2.cm-dreamweaver-jquery-events-mouseenter,
+#editor-holder .cm-string.cm-dreamweaver-jquery-events-mouseenter,
+#editor-holder .cm-property.cm-dreamweaver-jquery-events-mouseenter {
+  color: #6B96D5;
+}
+#editor-holder .cm-tag.cm-dreamweaver-jquery-events-mouseleave,
+#editor-holder .cm-builtin.cm-dreamweaver-jquery-events-mouseleave,
+#editor-holder .cm-qualifier.cm-dreamweaver-jquery-events-mouseleave,
+#editor-holder .cm-variable.cm-dreamweaver-jquery-events-mouseleave,
+#editor-holder .cm-variable-1.cm-dreamweaver-jquery-events-mouseleave,
+#editor-holder .cm-variable-2.cm-dreamweaver-jquery-events-mouseleave,
+#editor-holder .cm-string.cm-dreamweaver-jquery-events-mouseleave,
+#editor-holder .cm-property.cm-dreamweaver-jquery-events-mouseleave {
+  color: #6B96D5;
+}
+#editor-holder .cm-tag.cm-dreamweaver-jquery-events-mousemove,
+#editor-holder .cm-builtin.cm-dreamweaver-jquery-events-mousemove,
+#editor-holder .cm-qualifier.cm-dreamweaver-jquery-events-mousemove,
+#editor-holder .cm-variable.cm-dreamweaver-jquery-events-mousemove,
+#editor-holder .cm-variable-1.cm-dreamweaver-jquery-events-mousemove,
+#editor-holder .cm-variable-2.cm-dreamweaver-jquery-events-mousemove,
+#editor-holder .cm-string.cm-dreamweaver-jquery-events-mousemove,
+#editor-holder .cm-property.cm-dreamweaver-jquery-events-mousemove {
+  color: #6B96D5;
+}
+#editor-holder .cm-tag.cm-dreamweaver-jquery-events-mouseout,
+#editor-holder .cm-builtin.cm-dreamweaver-jquery-events-mouseout,
+#editor-holder .cm-qualifier.cm-dreamweaver-jquery-events-mouseout,
+#editor-holder .cm-variable.cm-dreamweaver-jquery-events-mouseout,
+#editor-holder .cm-variable-1.cm-dreamweaver-jquery-events-mouseout,
+#editor-holder .cm-variable-2.cm-dreamweaver-jquery-events-mouseout,
+#editor-holder .cm-string.cm-dreamweaver-jquery-events-mouseout,
+#editor-holder .cm-property.cm-dreamweaver-jquery-events-mouseout {
+  color: #6B96D5;
+}
+#editor-holder .cm-tag.cm-dreamweaver-jquery-events-mouseover,
+#editor-holder .cm-builtin.cm-dreamweaver-jquery-events-mouseover,
+#editor-holder .cm-qualifier.cm-dreamweaver-jquery-events-mouseover,
+#editor-holder .cm-variable.cm-dreamweaver-jquery-events-mouseover,
+#editor-holder .cm-variable-1.cm-dreamweaver-jquery-events-mouseover,
+#editor-holder .cm-variable-2.cm-dreamweaver-jquery-events-mouseover,
+#editor-holder .cm-string.cm-dreamweaver-jquery-events-mouseover,
+#editor-holder .cm-property.cm-dreamweaver-jquery-events-mouseover {
+  color: #6B96D5;
+}
+#editor-holder .cm-tag.cm-dreamweaver-jquery-events-mouseup,
+#editor-holder .cm-builtin.cm-dreamweaver-jquery-events-mouseup,
+#editor-holder .cm-qualifier.cm-dreamweaver-jquery-events-mouseup,
+#editor-holder .cm-variable.cm-dreamweaver-jquery-events-mouseup,
+#editor-holder .cm-variable-1.cm-dreamweaver-jquery-events-mouseup,
+#editor-holder .cm-variable-2.cm-dreamweaver-jquery-events-mouseup,
+#editor-holder .cm-string.cm-dreamweaver-jquery-events-mouseup,
+#editor-holder .cm-property.cm-dreamweaver-jquery-events-mouseup {
+  color: #6B96D5;
+}
+#editor-holder .cm-tag.cm-dreamweaver-jquery-events-toggle,
+#editor-holder .cm-builtin.cm-dreamweaver-jquery-events-toggle,
+#editor-holder .cm-qualifier.cm-dreamweaver-jquery-events-toggle,
+#editor-holder .cm-variable.cm-dreamweaver-jquery-events-toggle,
+#editor-holder .cm-variable-1.cm-dreamweaver-jquery-events-toggle,
+#editor-holder .cm-variable-2.cm-dreamweaver-jquery-events-toggle,
+#editor-holder .cm-string.cm-dreamweaver-jquery-events-toggle,
+#editor-holder .cm-property.cm-dreamweaver-jquery-events-toggle {
+  color: #6B96D5;
+}
+#editor-holder .cm-tag.cm-dreamweaver-jquery-events-currentTarget,
+#editor-holder .cm-builtin.cm-dreamweaver-jquery-events-currentTarget,
+#editor-holder .cm-qualifier.cm-dreamweaver-jquery-events-currentTarget,
+#editor-holder .cm-variable.cm-dreamweaver-jquery-events-currentTarget,
+#editor-holder .cm-variable-1.cm-dreamweaver-jquery-events-currentTarget,
+#editor-holder .cm-variable-2.cm-dreamweaver-jquery-events-currentTarget,
+#editor-holder .cm-string.cm-dreamweaver-jquery-events-currentTarget,
+#editor-holder .cm-property.cm-dreamweaver-jquery-events-currentTarget {
+  color: #6B96D5;
+}
+#editor-holder .cm-tag.cm-dreamweaver-jquery-events-delegateTarget,
+#editor-holder .cm-builtin.cm-dreamweaver-jquery-events-delegateTarget,
+#editor-holder .cm-qualifier.cm-dreamweaver-jquery-events-delegateTarget,
+#editor-holder .cm-variable.cm-dreamweaver-jquery-events-delegateTarget,
+#editor-holder .cm-variable-1.cm-dreamweaver-jquery-events-delegateTarget,
+#editor-holder .cm-variable-2.cm-dreamweaver-jquery-events-delegateTarget,
+#editor-holder .cm-string.cm-dreamweaver-jquery-events-delegateTarget,
+#editor-holder .cm-property.cm-dreamweaver-jquery-events-delegateTarget {
+  color: #6B96D5;
+}
+#editor-holder .cm-tag.cm-dreamweaver-jquery-events-isDefaultPrevented,
+#editor-holder .cm-builtin.cm-dreamweaver-jquery-events-isDefaultPrevented,
+#editor-holder .cm-qualifier.cm-dreamweaver-jquery-events-isDefaultPrevented,
+#editor-holder .cm-variable.cm-dreamweaver-jquery-events-isDefaultPrevented,
+#editor-holder .cm-variable-1.cm-dreamweaver-jquery-events-isDefaultPrevented,
+#editor-holder .cm-variable-2.cm-dreamweaver-jquery-events-isDefaultPrevented,
+#editor-holder .cm-string.cm-dreamweaver-jquery-events-isDefaultPrevented,
+#editor-holder .cm-property.cm-dreamweaver-jquery-events-isDefaultPrevented {
+  color: #6B96D5;
+}
+#editor-holder .cm-tag.cm-dreamweaver-jquery-events-isImmediatePropagationStopped,
+#editor-holder .cm-builtin.cm-dreamweaver-jquery-events-isImmediatePropagationStopped,
+#editor-holder .cm-qualifier.cm-dreamweaver-jquery-events-isImmediatePropagationStopped,
+#editor-holder .cm-variable.cm-dreamweaver-jquery-events-isImmediatePropagationStopped,
+#editor-holder .cm-variable-1.cm-dreamweaver-jquery-events-isImmediatePropagationStopped,
+#editor-holder .cm-variable-2.cm-dreamweaver-jquery-events-isImmediatePropagationStopped,
+#editor-holder .cm-string.cm-dreamweaver-jquery-events-isImmediatePropagationStopped,
+#editor-holder .cm-property.cm-dreamweaver-jquery-events-isImmediatePropagationStopped {
+  color: #6B96D5;
+}
+#editor-holder .cm-tag.cm-dreamweaver-jquery-events-isPropagationStopped,
+#editor-holder .cm-builtin.cm-dreamweaver-jquery-events-isPropagationStopped,
+#editor-holder .cm-qualifier.cm-dreamweaver-jquery-events-isPropagationStopped,
+#editor-holder .cm-variable.cm-dreamweaver-jquery-events-isPropagationStopped,
+#editor-holder .cm-variable-1.cm-dreamweaver-jquery-events-isPropagationStopped,
+#editor-holder .cm-variable-2.cm-dreamweaver-jquery-events-isPropagationStopped,
+#editor-holder .cm-string.cm-dreamweaver-jquery-events-isPropagationStopped,
+#editor-holder .cm-property.cm-dreamweaver-jquery-events-isPropagationStopped {
+  color: #6B96D5;
+}
+#editor-holder .cm-tag.cm-dreamweaver-jquery-events-metaKey,
+#editor-holder .cm-builtin.cm-dreamweaver-jquery-events-metaKey,
+#editor-holder .cm-qualifier.cm-dreamweaver-jquery-events-metaKey,
+#editor-holder .cm-variable.cm-dreamweaver-jquery-events-metaKey,
+#editor-holder .cm-variable-1.cm-dreamweaver-jquery-events-metaKey,
+#editor-holder .cm-variable-2.cm-dreamweaver-jquery-events-metaKey,
+#editor-holder .cm-string.cm-dreamweaver-jquery-events-metaKey,
+#editor-holder .cm-property.cm-dreamweaver-jquery-events-metaKey {
+  color: #6B96D5;
+}
+#editor-holder .cm-tag.cm-dreamweaver-jquery-events-namespace,
+#editor-holder .cm-builtin.cm-dreamweaver-jquery-events-namespace,
+#editor-holder .cm-qualifier.cm-dreamweaver-jquery-events-namespace,
+#editor-holder .cm-variable.cm-dreamweaver-jquery-events-namespace,
+#editor-holder .cm-variable-1.cm-dreamweaver-jquery-events-namespace,
+#editor-holder .cm-variable-2.cm-dreamweaver-jquery-events-namespace,
+#editor-holder .cm-string.cm-dreamweaver-jquery-events-namespace,
+#editor-holder .cm-property.cm-dreamweaver-jquery-events-namespace {
+  color: #6B96D5;
+}
+#editor-holder .cm-tag.cm-dreamweaver-jquery-events-pageX,
+#editor-holder .cm-builtin.cm-dreamweaver-jquery-events-pageX,
+#editor-holder .cm-qualifier.cm-dreamweaver-jquery-events-pageX,
+#editor-holder .cm-variable.cm-dreamweaver-jquery-events-pageX,
+#editor-holder .cm-variable-1.cm-dreamweaver-jquery-events-pageX,
+#editor-holder .cm-variable-2.cm-dreamweaver-jquery-events-pageX,
+#editor-holder .cm-string.cm-dreamweaver-jquery-events-pageX,
+#editor-holder .cm-property.cm-dreamweaver-jquery-events-pageX {
+  color: #6B96D5;
+}
+#editor-holder .cm-tag.cm-dreamweaver-jquery-events-pageY,
+#editor-holder .cm-builtin.cm-dreamweaver-jquery-events-pageY,
+#editor-holder .cm-qualifier.cm-dreamweaver-jquery-events-pageY,
+#editor-holder .cm-variable.cm-dreamweaver-jquery-events-pageY,
+#editor-holder .cm-variable-1.cm-dreamweaver-jquery-events-pageY,
+#editor-holder .cm-variable-2.cm-dreamweaver-jquery-events-pageY,
+#editor-holder .cm-string.cm-dreamweaver-jquery-events-pageY,
+#editor-holder .cm-property.cm-dreamweaver-jquery-events-pageY {
+  color: #6B96D5;
+}
+#editor-holder .cm-tag.cm-dreamweaver-jquery-events-preventDefault,
+#editor-holder .cm-builtin.cm-dreamweaver-jquery-events-preventDefault,
+#editor-holder .cm-qualifier.cm-dreamweaver-jquery-events-preventDefault,
+#editor-holder .cm-variable.cm-dreamweaver-jquery-events-preventDefault,
+#editor-holder .cm-variable-1.cm-dreamweaver-jquery-events-preventDefault,
+#editor-holder .cm-variable-2.cm-dreamweaver-jquery-events-preventDefault,
+#editor-holder .cm-string.cm-dreamweaver-jquery-events-preventDefault,
+#editor-holder .cm-property.cm-dreamweaver-jquery-events-preventDefault {
+  color: #6B96D5;
+}
+#editor-holder .cm-tag.cm-dreamweaver-jquery-events-relatedTarget,
+#editor-holder .cm-builtin.cm-dreamweaver-jquery-events-relatedTarget,
+#editor-holder .cm-qualifier.cm-dreamweaver-jquery-events-relatedTarget,
+#editor-holder .cm-variable.cm-dreamweaver-jquery-events-relatedTarget,
+#editor-holder .cm-variable-1.cm-dreamweaver-jquery-events-relatedTarget,
+#editor-holder .cm-variable-2.cm-dreamweaver-jquery-events-relatedTarget,
+#editor-holder .cm-string.cm-dreamweaver-jquery-events-relatedTarget,
+#editor-holder .cm-property.cm-dreamweaver-jquery-events-relatedTarget {
+  color: #6B96D5;
+}
+#editor-holder .cm-tag.cm-dreamweaver-jquery-events-result,
+#editor-holder .cm-builtin.cm-dreamweaver-jquery-events-result,
+#editor-holder .cm-qualifier.cm-dreamweaver-jquery-events-result,
+#editor-holder .cm-variable.cm-dreamweaver-jquery-events-result,
+#editor-holder .cm-variable-1.cm-dreamweaver-jquery-events-result,
+#editor-holder .cm-variable-2.cm-dreamweaver-jquery-events-result,
+#editor-holder .cm-string.cm-dreamweaver-jquery-events-result,
+#editor-holder .cm-property.cm-dreamweaver-jquery-events-result {
+  color: #6B96D5;
+}
+#editor-holder .cm-tag.cm-dreamweaver-jquery-events-stopImmediatePropagation,
+#editor-holder .cm-builtin.cm-dreamweaver-jquery-events-stopImmediatePropagation,
+#editor-holder .cm-qualifier.cm-dreamweaver-jquery-events-stopImmediatePropagation,
+#editor-holder .cm-variable.cm-dreamweaver-jquery-events-stopImmediatePropagation,
+#editor-holder .cm-variable-1.cm-dreamweaver-jquery-events-stopImmediatePropagation,
+#editor-holder .cm-variable-2.cm-dreamweaver-jquery-events-stopImmediatePropagation,
+#editor-holder .cm-string.cm-dreamweaver-jquery-events-stopImmediatePropagation,
+#editor-holder .cm-property.cm-dreamweaver-jquery-events-stopImmediatePropagation {
+  color: #6B96D5;
+}
+#editor-holder .cm-tag.cm-dreamweaver-jquery-events-stopPropagation,
+#editor-holder .cm-builtin.cm-dreamweaver-jquery-events-stopPropagation,
+#editor-holder .cm-qualifier.cm-dreamweaver-jquery-events-stopPropagation,
+#editor-holder .cm-variable.cm-dreamweaver-jquery-events-stopPropagation,
+#editor-holder .cm-variable-1.cm-dreamweaver-jquery-events-stopPropagation,
+#editor-holder .cm-variable-2.cm-dreamweaver-jquery-events-stopPropagation,
+#editor-holder .cm-string.cm-dreamweaver-jquery-events-stopPropagation,
+#editor-holder .cm-property.cm-dreamweaver-jquery-events-stopPropagation {
+  color: #6B96D5;
+}
+#editor-holder .cm-tag.cm-dreamweaver-jquery-events-target,
+#editor-holder .cm-builtin.cm-dreamweaver-jquery-events-target,
+#editor-holder .cm-qualifier.cm-dreamweaver-jquery-events-target,
+#editor-holder .cm-variable.cm-dreamweaver-jquery-events-target,
+#editor-holder .cm-variable-1.cm-dreamweaver-jquery-events-target,
+#editor-holder .cm-variable-2.cm-dreamweaver-jquery-events-target,
+#editor-holder .cm-string.cm-dreamweaver-jquery-events-target,
+#editor-holder .cm-property.cm-dreamweaver-jquery-events-target {
+  color: #6B96D5;
+}
+#editor-holder .cm-tag.cm-dreamweaver-jquery-events-timeStamp,
+#editor-holder .cm-builtin.cm-dreamweaver-jquery-events-timeStamp,
+#editor-holder .cm-qualifier.cm-dreamweaver-jquery-events-timeStamp,
+#editor-holder .cm-variable.cm-dreamweaver-jquery-events-timeStamp,
+#editor-holder .cm-variable-1.cm-dreamweaver-jquery-events-timeStamp,
+#editor-holder .cm-variable-2.cm-dreamweaver-jquery-events-timeStamp,
+#editor-holder .cm-string.cm-dreamweaver-jquery-events-timeStamp,
+#editor-holder .cm-property.cm-dreamweaver-jquery-events-timeStamp {
+  color: #6B96D5;
+}
+#editor-holder .cm-tag.cm-dreamweaver-jquery-events-type,
+#editor-holder .cm-builtin.cm-dreamweaver-jquery-events-type,
+#editor-holder .cm-qualifier.cm-dreamweaver-jquery-events-type,
+#editor-holder .cm-variable.cm-dreamweaver-jquery-events-type,
+#editor-holder .cm-variable-1.cm-dreamweaver-jquery-events-type,
+#editor-holder .cm-variable-2.cm-dreamweaver-jquery-events-type,
+#editor-holder .cm-string.cm-dreamweaver-jquery-events-type,
+#editor-holder .cm-property.cm-dreamweaver-jquery-events-type {
+  color: #6B96D5;
+}
+#editor-holder .cm-tag.cm-dreamweaver-jquery-events-which,
+#editor-holder .cm-builtin.cm-dreamweaver-jquery-events-which,
+#editor-holder .cm-qualifier.cm-dreamweaver-jquery-events-which,
+#editor-holder .cm-variable.cm-dreamweaver-jquery-events-which,
+#editor-holder .cm-variable-1.cm-dreamweaver-jquery-events-which,
+#editor-holder .cm-variable-2.cm-dreamweaver-jquery-events-which,
+#editor-holder .cm-string.cm-dreamweaver-jquery-events-which,
+#editor-holder .cm-property.cm-dreamweaver-jquery-events-which {
+  color: #6B96D5;
+}
+#editor-holder .cm-tag.cm-dreamweaver-jquery-effects-hide,
+#editor-holder .cm-builtin.cm-dreamweaver-jquery-effects-hide,
+#editor-holder .cm-qualifier.cm-dreamweaver-jquery-effects-hide,
+#editor-holder .cm-variable.cm-dreamweaver-jquery-effects-hide,
+#editor-holder .cm-variable-1.cm-dreamweaver-jquery-effects-hide,
+#editor-holder .cm-variable-2.cm-dreamweaver-jquery-effects-hide,
+#editor-holder .cm-string.cm-dreamweaver-jquery-effects-hide,
+#editor-holder .cm-property.cm-dreamweaver-jquery-effects-hide {
+  color: #3CC0DC;
+}
+#editor-holder .cm-tag.cm-dreamweaver-jquery-effects-show,
+#editor-holder .cm-builtin.cm-dreamweaver-jquery-effects-show,
+#editor-holder .cm-qualifier.cm-dreamweaver-jquery-effects-show,
+#editor-holder .cm-variable.cm-dreamweaver-jquery-effects-show,
+#editor-holder .cm-variable-1.cm-dreamweaver-jquery-effects-show,
+#editor-holder .cm-variable-2.cm-dreamweaver-jquery-effects-show,
+#editor-holder .cm-string.cm-dreamweaver-jquery-effects-show,
+#editor-holder .cm-property.cm-dreamweaver-jquery-effects-show {
+  color: #3CC0DC;
+}
+#editor-holder .cm-tag.cm-dreamweaver-jquery-effects-toggle,
+#editor-holder .cm-builtin.cm-dreamweaver-jquery-effects-toggle,
+#editor-holder .cm-qualifier.cm-dreamweaver-jquery-effects-toggle,
+#editor-holder .cm-variable.cm-dreamweaver-jquery-effects-toggle,
+#editor-holder .cm-variable-1.cm-dreamweaver-jquery-effects-toggle,
+#editor-holder .cm-variable-2.cm-dreamweaver-jquery-effects-toggle,
+#editor-holder .cm-string.cm-dreamweaver-jquery-effects-toggle,
+#editor-holder .cm-property.cm-dreamweaver-jquery-effects-toggle {
+  color: #3CC0DC;
+}
+#editor-holder .cm-tag.cm-dreamweaver-jquery-effects-animate,
+#editor-holder .cm-builtin.cm-dreamweaver-jquery-effects-animate,
+#editor-holder .cm-qualifier.cm-dreamweaver-jquery-effects-animate,
+#editor-holder .cm-variable.cm-dreamweaver-jquery-effects-animate,
+#editor-holder .cm-variable-1.cm-dreamweaver-jquery-effects-animate,
+#editor-holder .cm-variable-2.cm-dreamweaver-jquery-effects-animate,
+#editor-holder .cm-string.cm-dreamweaver-jquery-effects-animate,
+#editor-holder .cm-property.cm-dreamweaver-jquery-effects-animate {
+  color: #3CC0DC;
+}
+#editor-holder .cm-tag.cm-dreamweaver-jquery-effects-clearQueue,
+#editor-holder .cm-builtin.cm-dreamweaver-jquery-effects-clearQueue,
+#editor-holder .cm-qualifier.cm-dreamweaver-jquery-effects-clearQueue,
+#editor-holder .cm-variable.cm-dreamweaver-jquery-effects-clearQueue,
+#editor-holder .cm-variable-1.cm-dreamweaver-jquery-effects-clearQueue,
+#editor-holder .cm-variable-2.cm-dreamweaver-jquery-effects-clearQueue,
+#editor-holder .cm-string.cm-dreamweaver-jquery-effects-clearQueue,
+#editor-holder .cm-property.cm-dreamweaver-jquery-effects-clearQueue {
+  color: #3CC0DC;
+}
+#editor-holder .cm-tag.cm-dreamweaver-jquery-effects-delay,
+#editor-holder .cm-builtin.cm-dreamweaver-jquery-effects-delay,
+#editor-holder .cm-qualifier.cm-dreamweaver-jquery-effects-delay,
+#editor-holder .cm-variable.cm-dreamweaver-jquery-effects-delay,
+#editor-holder .cm-variable-1.cm-dreamweaver-jquery-effects-delay,
+#editor-holder .cm-variable-2.cm-dreamweaver-jquery-effects-delay,
+#editor-holder .cm-string.cm-dreamweaver-jquery-effects-delay,
+#editor-holder .cm-property.cm-dreamweaver-jquery-effects-delay {
+  color: #3CC0DC;
+}
+#editor-holder .cm-tag.cm-dreamweaver-jquery-effects-dequeue,
+#editor-holder .cm-builtin.cm-dreamweaver-jquery-effects-dequeue,
+#editor-holder .cm-qualifier.cm-dreamweaver-jquery-effects-dequeue,
+#editor-holder .cm-variable.cm-dreamweaver-jquery-effects-dequeue,
+#editor-holder .cm-variable-1.cm-dreamweaver-jquery-effects-dequeue,
+#editor-holder .cm-variable-2.cm-dreamweaver-jquery-effects-dequeue,
+#editor-holder .cm-string.cm-dreamweaver-jquery-effects-dequeue,
+#editor-holder .cm-property.cm-dreamweaver-jquery-effects-dequeue {
+  color: #3CC0DC;
+}
+#editor-holder .cm-tag.cm-dreamweaver-jquery-effects-finish,
+#editor-holder .cm-builtin.cm-dreamweaver-jquery-effects-finish,
+#editor-holder .cm-qualifier.cm-dreamweaver-jquery-effects-finish,
+#editor-holder .cm-variable.cm-dreamweaver-jquery-effects-finish,
+#editor-holder .cm-variable-1.cm-dreamweaver-jquery-effects-finish,
+#editor-holder .cm-variable-2.cm-dreamweaver-jquery-effects-finish,
+#editor-holder .cm-string.cm-dreamweaver-jquery-effects-finish,
+#editor-holder .cm-property.cm-dreamweaver-jquery-effects-finish {
+  color: #3CC0DC;
+}
+#editor-holder .cm-tag.cm-dreamweaver-jquery-effects-jQuery.fx.interval,
+#editor-holder .cm-builtin.cm-dreamweaver-jquery-effects-jQuery.fx.interval,
+#editor-holder .cm-qualifier.cm-dreamweaver-jquery-effects-jQuery.fx.interval,
+#editor-holder .cm-variable.cm-dreamweaver-jquery-effects-jQuery.fx.interval,
+#editor-holder .cm-variable-1.cm-dreamweaver-jquery-effects-jQuery.fx.interval,
+#editor-holder .cm-variable-2.cm-dreamweaver-jquery-effects-jQuery.fx.interval,
+#editor-holder .cm-string.cm-dreamweaver-jquery-effects-jQuery.fx.interval,
+#editor-holder .cm-property.cm-dreamweaver-jquery-effects-jQuery.fx.interval {
+  color: #3CC0DC;
+}
+#editor-holder .cm-tag.cm-dreamweaver-jquery-effects-jQuery.fx.off,
+#editor-holder .cm-builtin.cm-dreamweaver-jquery-effects-jQuery.fx.off,
+#editor-holder .cm-qualifier.cm-dreamweaver-jquery-effects-jQuery.fx.off,
+#editor-holder .cm-variable.cm-dreamweaver-jquery-effects-jQuery.fx.off,
+#editor-holder .cm-variable-1.cm-dreamweaver-jquery-effects-jQuery.fx.off,
+#editor-holder .cm-variable-2.cm-dreamweaver-jquery-effects-jQuery.fx.off,
+#editor-holder .cm-string.cm-dreamweaver-jquery-effects-jQuery.fx.off,
+#editor-holder .cm-property.cm-dreamweaver-jquery-effects-jQuery.fx.off {
+  color: #3CC0DC;
+}
+#editor-holder .cm-tag.cm-dreamweaver-jquery-effects-jQuery.speed,
+#editor-holder .cm-builtin.cm-dreamweaver-jquery-effects-jQuery.speed,
+#editor-holder .cm-qualifier.cm-dreamweaver-jquery-effects-jQuery.speed,
+#editor-holder .cm-variable.cm-dreamweaver-jquery-effects-jQuery.speed,
+#editor-holder .cm-variable-1.cm-dreamweaver-jquery-effects-jQuery.speed,
+#editor-holder .cm-variable-2.cm-dreamweaver-jquery-effects-jQuery.speed,
+#editor-holder .cm-string.cm-dreamweaver-jquery-effects-jQuery.speed,
+#editor-holder .cm-property.cm-dreamweaver-jquery-effects-jQuery.speed {
+  color: #3CC0DC;
+}
+#editor-holder .cm-tag.cm-dreamweaver-jquery-effects-queue,
+#editor-holder .cm-builtin.cm-dreamweaver-jquery-effects-queue,
+#editor-holder .cm-qualifier.cm-dreamweaver-jquery-effects-queue,
+#editor-holder .cm-variable.cm-dreamweaver-jquery-effects-queue,
+#editor-holder .cm-variable-1.cm-dreamweaver-jquery-effects-queue,
+#editor-holder .cm-variable-2.cm-dreamweaver-jquery-effects-queue,
+#editor-holder .cm-string.cm-dreamweaver-jquery-effects-queue,
+#editor-holder .cm-property.cm-dreamweaver-jquery-effects-queue {
+  color: #3CC0DC;
+}
+#editor-holder .cm-tag.cm-dreamweaver-jquery-effects-stop,
+#editor-holder .cm-builtin.cm-dreamweaver-jquery-effects-stop,
+#editor-holder .cm-qualifier.cm-dreamweaver-jquery-effects-stop,
+#editor-holder .cm-variable.cm-dreamweaver-jquery-effects-stop,
+#editor-holder .cm-variable-1.cm-dreamweaver-jquery-effects-stop,
+#editor-holder .cm-variable-2.cm-dreamweaver-jquery-effects-stop,
+#editor-holder .cm-string.cm-dreamweaver-jquery-effects-stop,
+#editor-holder .cm-property.cm-dreamweaver-jquery-effects-stop {
+  color: #3CC0DC;
+}
+#editor-holder .cm-tag.cm-dreamweaver-jquery-effects-fadeIn,
+#editor-holder .cm-builtin.cm-dreamweaver-jquery-effects-fadeIn,
+#editor-holder .cm-qualifier.cm-dreamweaver-jquery-effects-fadeIn,
+#editor-holder .cm-variable.cm-dreamweaver-jquery-effects-fadeIn,
+#editor-holder .cm-variable-1.cm-dreamweaver-jquery-effects-fadeIn,
+#editor-holder .cm-variable-2.cm-dreamweaver-jquery-effects-fadeIn,
+#editor-holder .cm-string.cm-dreamweaver-jquery-effects-fadeIn,
+#editor-holder .cm-property.cm-dreamweaver-jquery-effects-fadeIn {
+  color: #3CC0DC;
+}
+#editor-holder .cm-tag.cm-dreamweaver-jquery-effects-fadeOut,
+#editor-holder .cm-builtin.cm-dreamweaver-jquery-effects-fadeOut,
+#editor-holder .cm-qualifier.cm-dreamweaver-jquery-effects-fadeOut,
+#editor-holder .cm-variable.cm-dreamweaver-jquery-effects-fadeOut,
+#editor-holder .cm-variable-1.cm-dreamweaver-jquery-effects-fadeOut,
+#editor-holder .cm-variable-2.cm-dreamweaver-jquery-effects-fadeOut,
+#editor-holder .cm-string.cm-dreamweaver-jquery-effects-fadeOut,
+#editor-holder .cm-property.cm-dreamweaver-jquery-effects-fadeOut {
+  color: #3CC0DC;
+}
+#editor-holder .cm-tag.cm-dreamweaver-jquery-effects-fadeTo,
+#editor-holder .cm-builtin.cm-dreamweaver-jquery-effects-fadeTo,
+#editor-holder .cm-qualifier.cm-dreamweaver-jquery-effects-fadeTo,
+#editor-holder .cm-variable.cm-dreamweaver-jquery-effects-fadeTo,
+#editor-holder .cm-variable-1.cm-dreamweaver-jquery-effects-fadeTo,
+#editor-holder .cm-variable-2.cm-dreamweaver-jquery-effects-fadeTo,
+#editor-holder .cm-string.cm-dreamweaver-jquery-effects-fadeTo,
+#editor-holder .cm-property.cm-dreamweaver-jquery-effects-fadeTo {
+  color: #3CC0DC;
+}
+#editor-holder .cm-tag.cm-dreamweaver-jquery-effects-fadeToggle,
+#editor-holder .cm-builtin.cm-dreamweaver-jquery-effects-fadeToggle,
+#editor-holder .cm-qualifier.cm-dreamweaver-jquery-effects-fadeToggle,
+#editor-holder .cm-variable.cm-dreamweaver-jquery-effects-fadeToggle,
+#editor-holder .cm-variable-1.cm-dreamweaver-jquery-effects-fadeToggle,
+#editor-holder .cm-variable-2.cm-dreamweaver-jquery-effects-fadeToggle,
+#editor-holder .cm-string.cm-dreamweaver-jquery-effects-fadeToggle,
+#editor-holder .cm-property.cm-dreamweaver-jquery-effects-fadeToggle {
+  color: #3CC0DC;
+}
+#editor-holder .cm-tag.cm-dreamweaver-jquery-effects-slideDown,
+#editor-holder .cm-builtin.cm-dreamweaver-jquery-effects-slideDown,
+#editor-holder .cm-qualifier.cm-dreamweaver-jquery-effects-slideDown,
+#editor-holder .cm-variable.cm-dreamweaver-jquery-effects-slideDown,
+#editor-holder .cm-variable-1.cm-dreamweaver-jquery-effects-slideDown,
+#editor-holder .cm-variable-2.cm-dreamweaver-jquery-effects-slideDown,
+#editor-holder .cm-string.cm-dreamweaver-jquery-effects-slideDown,
+#editor-holder .cm-property.cm-dreamweaver-jquery-effects-slideDown {
+  color: #3CC0DC;
+}
+#editor-holder .cm-tag.cm-dreamweaver-jquery-effects-slideToggle,
+#editor-holder .cm-builtin.cm-dreamweaver-jquery-effects-slideToggle,
+#editor-holder .cm-qualifier.cm-dreamweaver-jquery-effects-slideToggle,
+#editor-holder .cm-variable.cm-dreamweaver-jquery-effects-slideToggle,
+#editor-holder .cm-variable-1.cm-dreamweaver-jquery-effects-slideToggle,
+#editor-holder .cm-variable-2.cm-dreamweaver-jquery-effects-slideToggle,
+#editor-holder .cm-string.cm-dreamweaver-jquery-effects-slideToggle,
+#editor-holder .cm-property.cm-dreamweaver-jquery-effects-slideToggle {
+  color: #3CC0DC;
+}
+#editor-holder .cm-tag.cm-dreamweaver-jquery-effects-slideUp,
+#editor-holder .cm-builtin.cm-dreamweaver-jquery-effects-slideUp,
+#editor-holder .cm-qualifier.cm-dreamweaver-jquery-effects-slideUp,
+#editor-holder .cm-variable.cm-dreamweaver-jquery-effects-slideUp,
+#editor-holder .cm-variable-1.cm-dreamweaver-jquery-effects-slideUp,
+#editor-holder .cm-variable-2.cm-dreamweaver-jquery-effects-slideUp,
+#editor-holder .cm-string.cm-dreamweaver-jquery-effects-slideUp,
+#editor-holder .cm-property.cm-dreamweaver-jquery-effects-slideUp {
+  color: #3CC0DC;
+}
+#editor-holder .cm-tag.cm-dreamweaver-jquery-ajax-ajaxComplete,
+#editor-holder .cm-builtin.cm-dreamweaver-jquery-ajax-ajaxComplete,
+#editor-holder .cm-qualifier.cm-dreamweaver-jquery-ajax-ajaxComplete,
+#editor-holder .cm-variable.cm-dreamweaver-jquery-ajax-ajaxComplete,
+#editor-holder .cm-variable-1.cm-dreamweaver-jquery-ajax-ajaxComplete,
+#editor-holder .cm-variable-2.cm-dreamweaver-jquery-ajax-ajaxComplete,
+#editor-holder .cm-string.cm-dreamweaver-jquery-ajax-ajaxComplete,
+#editor-holder .cm-property.cm-dreamweaver-jquery-ajax-ajaxComplete {
+  color: #40D26E;
+}
+#editor-holder .cm-tag.cm-dreamweaver-jquery-ajax-ajaxError,
+#editor-holder .cm-builtin.cm-dreamweaver-jquery-ajax-ajaxError,
+#editor-holder .cm-qualifier.cm-dreamweaver-jquery-ajax-ajaxError,
+#editor-holder .cm-variable.cm-dreamweaver-jquery-ajax-ajaxError,
+#editor-holder .cm-variable-1.cm-dreamweaver-jquery-ajax-ajaxError,
+#editor-holder .cm-variable-2.cm-dreamweaver-jquery-ajax-ajaxError,
+#editor-holder .cm-string.cm-dreamweaver-jquery-ajax-ajaxError,
+#editor-holder .cm-property.cm-dreamweaver-jquery-ajax-ajaxError {
+  color: #40D26E;
+}
+#editor-holder .cm-tag.cm-dreamweaver-jquery-ajax-ajaxSend,
+#editor-holder .cm-builtin.cm-dreamweaver-jquery-ajax-ajaxSend,
+#editor-holder .cm-qualifier.cm-dreamweaver-jquery-ajax-ajaxSend,
+#editor-holder .cm-variable.cm-dreamweaver-jquery-ajax-ajaxSend,
+#editor-holder .cm-variable-1.cm-dreamweaver-jquery-ajax-ajaxSend,
+#editor-holder .cm-variable-2.cm-dreamweaver-jquery-ajax-ajaxSend,
+#editor-holder .cm-string.cm-dreamweaver-jquery-ajax-ajaxSend,
+#editor-holder .cm-property.cm-dreamweaver-jquery-ajax-ajaxSend {
+  color: #40D26E;
+}
+#editor-holder .cm-tag.cm-dreamweaver-jquery-ajax-ajaxStart,
+#editor-holder .cm-builtin.cm-dreamweaver-jquery-ajax-ajaxStart,
+#editor-holder .cm-qualifier.cm-dreamweaver-jquery-ajax-ajaxStart,
+#editor-holder .cm-variable.cm-dreamweaver-jquery-ajax-ajaxStart,
+#editor-holder .cm-variable-1.cm-dreamweaver-jquery-ajax-ajaxStart,
+#editor-holder .cm-variable-2.cm-dreamweaver-jquery-ajax-ajaxStart,
+#editor-holder .cm-string.cm-dreamweaver-jquery-ajax-ajaxStart,
+#editor-holder .cm-property.cm-dreamweaver-jquery-ajax-ajaxStart {
+  color: #40D26E;
+}
+#editor-holder .cm-tag.cm-dreamweaver-jquery-ajax-ajaxStop,
+#editor-holder .cm-builtin.cm-dreamweaver-jquery-ajax-ajaxStop,
+#editor-holder .cm-qualifier.cm-dreamweaver-jquery-ajax-ajaxStop,
+#editor-holder .cm-variable.cm-dreamweaver-jquery-ajax-ajaxStop,
+#editor-holder .cm-variable-1.cm-dreamweaver-jquery-ajax-ajaxStop,
+#editor-holder .cm-variable-2.cm-dreamweaver-jquery-ajax-ajaxStop,
+#editor-holder .cm-string.cm-dreamweaver-jquery-ajax-ajaxStop,
+#editor-holder .cm-property.cm-dreamweaver-jquery-ajax-ajaxStop {
+  color: #40D26E;
+}
+#editor-holder .cm-tag.cm-dreamweaver-jquery-ajax-ajaxSuccess,
+#editor-holder .cm-builtin.cm-dreamweaver-jquery-ajax-ajaxSuccess,
+#editor-holder .cm-qualifier.cm-dreamweaver-jquery-ajax-ajaxSuccess,
+#editor-holder .cm-variable.cm-dreamweaver-jquery-ajax-ajaxSuccess,
+#editor-holder .cm-variable-1.cm-dreamweaver-jquery-ajax-ajaxSuccess,
+#editor-holder .cm-variable-2.cm-dreamweaver-jquery-ajax-ajaxSuccess,
+#editor-holder .cm-string.cm-dreamweaver-jquery-ajax-ajaxSuccess,
+#editor-holder .cm-property.cm-dreamweaver-jquery-ajax-ajaxSuccess {
+  color: #40D26E;
+}
+#editor-holder .cm-tag.cm-dreamweaver-jquery-ajax-jQuery.param,
+#editor-holder .cm-builtin.cm-dreamweaver-jquery-ajax-jQuery.param,
+#editor-holder .cm-qualifier.cm-dreamweaver-jquery-ajax-jQuery.param,
+#editor-holder .cm-variable.cm-dreamweaver-jquery-ajax-jQuery.param,
+#editor-holder .cm-variable-1.cm-dreamweaver-jquery-ajax-jQuery.param,
+#editor-holder .cm-variable-2.cm-dreamweaver-jquery-ajax-jQuery.param,
+#editor-holder .cm-string.cm-dreamweaver-jquery-ajax-jQuery.param,
+#editor-holder .cm-property.cm-dreamweaver-jquery-ajax-jQuery.param {
+  color: #40D26E;
+}
+#editor-holder .cm-tag.cm-dreamweaver-jquery-ajax-serialize,
+#editor-holder .cm-builtin.cm-dreamweaver-jquery-ajax-serialize,
+#editor-holder .cm-qualifier.cm-dreamweaver-jquery-ajax-serialize,
+#editor-holder .cm-variable.cm-dreamweaver-jquery-ajax-serialize,
+#editor-holder .cm-variable-1.cm-dreamweaver-jquery-ajax-serialize,
+#editor-holder .cm-variable-2.cm-dreamweaver-jquery-ajax-serialize,
+#editor-holder .cm-string.cm-dreamweaver-jquery-ajax-serialize,
+#editor-holder .cm-property.cm-dreamweaver-jquery-ajax-serialize {
+  color: #40D26E;
+}
+#editor-holder .cm-tag.cm-dreamweaver-jquery-ajax-serializeArray,
+#editor-holder .cm-builtin.cm-dreamweaver-jquery-ajax-serializeArray,
+#editor-holder .cm-qualifier.cm-dreamweaver-jquery-ajax-serializeArray,
+#editor-holder .cm-variable.cm-dreamweaver-jquery-ajax-serializeArray,
+#editor-holder .cm-variable-1.cm-dreamweaver-jquery-ajax-serializeArray,
+#editor-holder .cm-variable-2.cm-dreamweaver-jquery-ajax-serializeArray,
+#editor-holder .cm-string.cm-dreamweaver-jquery-ajax-serializeArray,
+#editor-holder .cm-property.cm-dreamweaver-jquery-ajax-serializeArray {
+  color: #40D26E;
+}
+#editor-holder .cm-tag.cm-dreamweaver-jquery-ajax-jQuery.ajax,
+#editor-holder .cm-builtin.cm-dreamweaver-jquery-ajax-jQuery.ajax,
+#editor-holder .cm-qualifier.cm-dreamweaver-jquery-ajax-jQuery.ajax,
+#editor-holder .cm-variable.cm-dreamweaver-jquery-ajax-jQuery.ajax,
+#editor-holder .cm-variable-1.cm-dreamweaver-jquery-ajax-jQuery.ajax,
+#editor-holder .cm-variable-2.cm-dreamweaver-jquery-ajax-jQuery.ajax,
+#editor-holder .cm-string.cm-dreamweaver-jquery-ajax-jQuery.ajax,
+#editor-holder .cm-property.cm-dreamweaver-jquery-ajax-jQuery.ajax {
+  color: #40D26E;
+}
+#editor-holder .cm-tag.cm-dreamweaver-jquery-ajax-jQuery.prefilter,
+#editor-holder .cm-builtin.cm-dreamweaver-jquery-ajax-jQuery.prefilter,
+#editor-holder .cm-qualifier.cm-dreamweaver-jquery-ajax-jQuery.prefilter,
+#editor-holder .cm-variable.cm-dreamweaver-jquery-ajax-jQuery.prefilter,
+#editor-holder .cm-variable-1.cm-dreamweaver-jquery-ajax-jQuery.prefilter,
+#editor-holder .cm-variable-2.cm-dreamweaver-jquery-ajax-jQuery.prefilter,
+#editor-holder .cm-string.cm-dreamweaver-jquery-ajax-jQuery.prefilter,
+#editor-holder .cm-property.cm-dreamweaver-jquery-ajax-jQuery.prefilter {
+  color: #40D26E;
+}
+#editor-holder .cm-tag.cm-dreamweaver-jquery-ajax-jQuery.ajaxSetup,
+#editor-holder .cm-builtin.cm-dreamweaver-jquery-ajax-jQuery.ajaxSetup,
+#editor-holder .cm-qualifier.cm-dreamweaver-jquery-ajax-jQuery.ajaxSetup,
+#editor-holder .cm-variable.cm-dreamweaver-jquery-ajax-jQuery.ajaxSetup,
+#editor-holder .cm-variable-1.cm-dreamweaver-jquery-ajax-jQuery.ajaxSetup,
+#editor-holder .cm-variable-2.cm-dreamweaver-jquery-ajax-jQuery.ajaxSetup,
+#editor-holder .cm-string.cm-dreamweaver-jquery-ajax-jQuery.ajaxSetup,
+#editor-holder .cm-property.cm-dreamweaver-jquery-ajax-jQuery.ajaxSetup {
+  color: #40D26E;
+}
+#editor-holder .cm-tag.cm-dreamweaver-jquery-ajax-jQuery.ajaxTransport,
+#editor-holder .cm-builtin.cm-dreamweaver-jquery-ajax-jQuery.ajaxTransport,
+#editor-holder .cm-qualifier.cm-dreamweaver-jquery-ajax-jQuery.ajaxTransport,
+#editor-holder .cm-variable.cm-dreamweaver-jquery-ajax-jQuery.ajaxTransport,
+#editor-holder .cm-variable-1.cm-dreamweaver-jquery-ajax-jQuery.ajaxTransport,
+#editor-holder .cm-variable-2.cm-dreamweaver-jquery-ajax-jQuery.ajaxTransport,
+#editor-holder .cm-string.cm-dreamweaver-jquery-ajax-jQuery.ajaxTransport,
+#editor-holder .cm-property.cm-dreamweaver-jquery-ajax-jQuery.ajaxTransport {
+  color: #40D26E;
+}
+#editor-holder .cm-tag.cm-dreamweaver-jquery-ajax-jQuery.get,
+#editor-holder .cm-builtin.cm-dreamweaver-jquery-ajax-jQuery.get,
+#editor-holder .cm-qualifier.cm-dreamweaver-jquery-ajax-jQuery.get,
+#editor-holder .cm-variable.cm-dreamweaver-jquery-ajax-jQuery.get,
+#editor-holder .cm-variable-1.cm-dreamweaver-jquery-ajax-jQuery.get,
+#editor-holder .cm-variable-2.cm-dreamweaver-jquery-ajax-jQuery.get,
+#editor-holder .cm-string.cm-dreamweaver-jquery-ajax-jQuery.get,
+#editor-holder .cm-property.cm-dreamweaver-jquery-ajax-jQuery.get {
+  color: #40D26E;
+}
+#editor-holder .cm-tag.cm-dreamweaver-jquery-ajax-jQuery.getJSON,
+#editor-holder .cm-builtin.cm-dreamweaver-jquery-ajax-jQuery.getJSON,
+#editor-holder .cm-qualifier.cm-dreamweaver-jquery-ajax-jQuery.getJSON,
+#editor-holder .cm-variable.cm-dreamweaver-jquery-ajax-jQuery.getJSON,
+#editor-holder .cm-variable-1.cm-dreamweaver-jquery-ajax-jQuery.getJSON,
+#editor-holder .cm-variable-2.cm-dreamweaver-jquery-ajax-jQuery.getJSON,
+#editor-holder .cm-string.cm-dreamweaver-jquery-ajax-jQuery.getJSON,
+#editor-holder .cm-property.cm-dreamweaver-jquery-ajax-jQuery.getJSON {
+  color: #40D26E;
+}
+#editor-holder .cm-tag.cm-dreamweaver-jquery-ajax-jQuery.getScript,
+#editor-holder .cm-builtin.cm-dreamweaver-jquery-ajax-jQuery.getScript,
+#editor-holder .cm-qualifier.cm-dreamweaver-jquery-ajax-jQuery.getScript,
+#editor-holder .cm-variable.cm-dreamweaver-jquery-ajax-jQuery.getScript,
+#editor-holder .cm-variable-1.cm-dreamweaver-jquery-ajax-jQuery.getScript,
+#editor-holder .cm-variable-2.cm-dreamweaver-jquery-ajax-jQuery.getScript,
+#editor-holder .cm-string.cm-dreamweaver-jquery-ajax-jQuery.getScript,
+#editor-holder .cm-property.cm-dreamweaver-jquery-ajax-jQuery.getScript {
+  color: #40D26E;
+}
+#editor-holder .cm-tag.cm-dreamweaver-jquery-ajax-jQuery.post,
+#editor-holder .cm-builtin.cm-dreamweaver-jquery-ajax-jQuery.post,
+#editor-holder .cm-qualifier.cm-dreamweaver-jquery-ajax-jQuery.post,
+#editor-holder .cm-variable.cm-dreamweaver-jquery-ajax-jQuery.post,
+#editor-holder .cm-variable-1.cm-dreamweaver-jquery-ajax-jQuery.post,
+#editor-holder .cm-variable-2.cm-dreamweaver-jquery-ajax-jQuery.post,
+#editor-holder .cm-string.cm-dreamweaver-jquery-ajax-jQuery.post,
+#editor-holder .cm-property.cm-dreamweaver-jquery-ajax-jQuery.post {
+  color: #40D26E;
+}
+#editor-holder .cm-tag.cm-dreamweaver-jquery-ajax-load,
+#editor-holder .cm-builtin.cm-dreamweaver-jquery-ajax-load,
+#editor-holder .cm-qualifier.cm-dreamweaver-jquery-ajax-load,
+#editor-holder .cm-variable.cm-dreamweaver-jquery-ajax-load,
+#editor-holder .cm-variable-1.cm-dreamweaver-jquery-ajax-load,
+#editor-holder .cm-variable-2.cm-dreamweaver-jquery-ajax-load,
+#editor-holder .cm-string.cm-dreamweaver-jquery-ajax-load,
+#editor-holder .cm-property.cm-dreamweaver-jquery-ajax-load {
+  color: #40D26E;
+}
+#editor-holder .cm-tag.cm-dreamweaver-jquery-core-jQuery,
+#editor-holder .cm-builtin.cm-dreamweaver-jquery-core-jQuery,
+#editor-holder .cm-qualifier.cm-dreamweaver-jquery-core-jQuery,
+#editor-holder .cm-variable.cm-dreamweaver-jquery-core-jQuery,
+#editor-holder .cm-variable-1.cm-dreamweaver-jquery-core-jQuery,
+#editor-holder .cm-variable-2.cm-dreamweaver-jquery-core-jQuery,
+#editor-holder .cm-string.cm-dreamweaver-jquery-core-jQuery,
+#editor-holder .cm-property.cm-dreamweaver-jquery-core-jQuery {
+  color: #CFF417;
+}
+#editor-holder .cm-tag.cm-dreamweaver-jquery-core-jQuery.noConflict,
+#editor-holder .cm-builtin.cm-dreamweaver-jquery-core-jQuery.noConflict,
+#editor-holder .cm-qualifier.cm-dreamweaver-jquery-core-jQuery.noConflict,
+#editor-holder .cm-variable.cm-dreamweaver-jquery-core-jQuery.noConflict,
+#editor-holder .cm-variable-1.cm-dreamweaver-jquery-core-jQuery.noConflict,
+#editor-holder .cm-variable-2.cm-dreamweaver-jquery-core-jQuery.noConflict,
+#editor-holder .cm-string.cm-dreamweaver-jquery-core-jQuery.noConflict,
+#editor-holder .cm-property.cm-dreamweaver-jquery-core-jQuery.noConflict {
+  color: #CFF417;
+}
+#editor-holder .cm-tag.cm-dreamweaver-jquery-core-jQuery.sub,
+#editor-holder .cm-builtin.cm-dreamweaver-jquery-core-jQuery.sub,
+#editor-holder .cm-qualifier.cm-dreamweaver-jquery-core-jQuery.sub,
+#editor-holder .cm-variable.cm-dreamweaver-jquery-core-jQuery.sub,
+#editor-holder .cm-variable-1.cm-dreamweaver-jquery-core-jQuery.sub,
+#editor-holder .cm-variable-2.cm-dreamweaver-jquery-core-jQuery.sub,
+#editor-holder .cm-string.cm-dreamweaver-jquery-core-jQuery.sub,
+#editor-holder .cm-property.cm-dreamweaver-jquery-core-jQuery.sub {
+  color: #CFF417;
+}
+#editor-holder .cm-tag.cm-dreamweaver-jquery-core-jQuery.holdReady,
+#editor-holder .cm-builtin.cm-dreamweaver-jquery-core-jQuery.holdReady,
+#editor-holder .cm-qualifier.cm-dreamweaver-jquery-core-jQuery.holdReady,
+#editor-holder .cm-variable.cm-dreamweaver-jquery-core-jQuery.holdReady,
+#editor-holder .cm-variable-1.cm-dreamweaver-jquery-core-jQuery.holdReady,
+#editor-holder .cm-variable-2.cm-dreamweaver-jquery-core-jQuery.holdReady,
+#editor-holder .cm-string.cm-dreamweaver-jquery-core-jQuery.holdReady,
+#editor-holder .cm-property.cm-dreamweaver-jquery-core-jQuery.holdReady {
+  color: #CFF417;
+}
+#editor-holder .cm-tag.cm-dreamweaver-jquery-core-jQuery.when,
+#editor-holder .cm-builtin.cm-dreamweaver-jquery-core-jQuery.when,
+#editor-holder .cm-qualifier.cm-dreamweaver-jquery-core-jQuery.when,
+#editor-holder .cm-variable.cm-dreamweaver-jquery-core-jQuery.when,
+#editor-holder .cm-variable-1.cm-dreamweaver-jquery-core-jQuery.when,
+#editor-holder .cm-variable-2.cm-dreamweaver-jquery-core-jQuery.when,
+#editor-holder .cm-string.cm-dreamweaver-jquery-core-jQuery.when,
+#editor-holder .cm-property.cm-dreamweaver-jquery-core-jQuery.when {
+  color: #CFF417;
+}
+#editor-holder .cm-tag.cm-dreamweaver-jquery-core-jQuery.Deferred,
+#editor-holder .cm-builtin.cm-dreamweaver-jquery-core-jQuery.Deferred,
+#editor-holder .cm-qualifier.cm-dreamweaver-jquery-core-jQuery.Deferred,
+#editor-holder .cm-variable.cm-dreamweaver-jquery-core-jQuery.Deferred,
+#editor-holder .cm-variable-1.cm-dreamweaver-jquery-core-jQuery.Deferred,
+#editor-holder .cm-variable-2.cm-dreamweaver-jquery-core-jQuery.Deferred,
+#editor-holder .cm-string.cm-dreamweaver-jquery-core-jQuery.Deferred,
+#editor-holder .cm-property.cm-dreamweaver-jquery-core-jQuery.Deferred {
+  color: #CFF417;
+}
+#editor-holder .cm-tag.cm-dreamweaver-jquery-core-deferred.always,
+#editor-holder .cm-builtin.cm-dreamweaver-jquery-core-deferred.always,
+#editor-holder .cm-qualifier.cm-dreamweaver-jquery-core-deferred.always,
+#editor-holder .cm-variable.cm-dreamweaver-jquery-core-deferred.always,
+#editor-holder .cm-variable-1.cm-dreamweaver-jquery-core-deferred.always,
+#editor-holder .cm-variable-2.cm-dreamweaver-jquery-core-deferred.always,
+#editor-holder .cm-string.cm-dreamweaver-jquery-core-deferred.always,
+#editor-holder .cm-property.cm-dreamweaver-jquery-core-deferred.always {
+  color: #CFF417;
+}
+#editor-holder .cm-tag.cm-dreamweaver-jquery-core-deferred.done,
+#editor-holder .cm-builtin.cm-dreamweaver-jquery-core-deferred.done,
+#editor-holder .cm-qualifier.cm-dreamweaver-jquery-core-deferred.done,
+#editor-holder .cm-variable.cm-dreamweaver-jquery-core-deferred.done,
+#editor-holder .cm-variable-1.cm-dreamweaver-jquery-core-deferred.done,
+#editor-holder .cm-variable-2.cm-dreamweaver-jquery-core-deferred.done,
+#editor-holder .cm-string.cm-dreamweaver-jquery-core-deferred.done,
+#editor-holder .cm-property.cm-dreamweaver-jquery-core-deferred.done {
+  color: #CFF417;
+}
+#editor-holder .cm-tag.cm-dreamweaver-jquery-core-deferred.fail,
+#editor-holder .cm-builtin.cm-dreamweaver-jquery-core-deferred.fail,
+#editor-holder .cm-qualifier.cm-dreamweaver-jquery-core-deferred.fail,
+#editor-holder .cm-variable.cm-dreamweaver-jquery-core-deferred.fail,
+#editor-holder .cm-variable-1.cm-dreamweaver-jquery-core-deferred.fail,
+#editor-holder .cm-variable-2.cm-dreamweaver-jquery-core-deferred.fail,
+#editor-holder .cm-string.cm-dreamweaver-jquery-core-deferred.fail,
+#editor-holder .cm-property.cm-dreamweaver-jquery-core-deferred.fail {
+  color: #CFF417;
+}
+#editor-holder .cm-tag.cm-dreamweaver-jquery-core-deferred.isRejected,
+#editor-holder .cm-builtin.cm-dreamweaver-jquery-core-deferred.isRejected,
+#editor-holder .cm-qualifier.cm-dreamweaver-jquery-core-deferred.isRejected,
+#editor-holder .cm-variable.cm-dreamweaver-jquery-core-deferred.isRejected,
+#editor-holder .cm-variable-1.cm-dreamweaver-jquery-core-deferred.isRejected,
+#editor-holder .cm-variable-2.cm-dreamweaver-jquery-core-deferred.isRejected,
+#editor-holder .cm-string.cm-dreamweaver-jquery-core-deferred.isRejected,
+#editor-holder .cm-property.cm-dreamweaver-jquery-core-deferred.isRejected {
+  color: #CFF417;
+}
+#editor-holder .cm-tag.cm-dreamweaver-jquery-core-deferred.isResolved,
+#editor-holder .cm-builtin.cm-dreamweaver-jquery-core-deferred.isResolved,
+#editor-holder .cm-qualifier.cm-dreamweaver-jquery-core-deferred.isResolved,
+#editor-holder .cm-variable.cm-dreamweaver-jquery-core-deferred.isResolved,
+#editor-holder .cm-variable-1.cm-dreamweaver-jquery-core-deferred.isResolved,
+#editor-holder .cm-variable-2.cm-dreamweaver-jquery-core-deferred.isResolved,
+#editor-holder .cm-string.cm-dreamweaver-jquery-core-deferred.isResolved,
+#editor-holder .cm-property.cm-dreamweaver-jquery-core-deferred.isResolved {
+  color: #CFF417;
+}
+#editor-holder .cm-tag.cm-dreamweaver-jquery-core-deferred.notify,
+#editor-holder .cm-builtin.cm-dreamweaver-jquery-core-deferred.notify,
+#editor-holder .cm-qualifier.cm-dreamweaver-jquery-core-deferred.notify,
+#editor-holder .cm-variable.cm-dreamweaver-jquery-core-deferred.notify,
+#editor-holder .cm-variable-1.cm-dreamweaver-jquery-core-deferred.notify,
+#editor-holder .cm-variable-2.cm-dreamweaver-jquery-core-deferred.notify,
+#editor-holder .cm-string.cm-dreamweaver-jquery-core-deferred.notify,
+#editor-holder .cm-property.cm-dreamweaver-jquery-core-deferred.notify {
+  color: #CFF417;
+}
+#editor-holder .cm-tag.cm-dreamweaver-jquery-core-deferred.notifyWith,
+#editor-holder .cm-builtin.cm-dreamweaver-jquery-core-deferred.notifyWith,
+#editor-holder .cm-qualifier.cm-dreamweaver-jquery-core-deferred.notifyWith,
+#editor-holder .cm-variable.cm-dreamweaver-jquery-core-deferred.notifyWith,
+#editor-holder .cm-variable-1.cm-dreamweaver-jquery-core-deferred.notifyWith,
+#editor-holder .cm-variable-2.cm-dreamweaver-jquery-core-deferred.notifyWith,
+#editor-holder .cm-string.cm-dreamweaver-jquery-core-deferred.notifyWith,
+#editor-holder .cm-property.cm-dreamweaver-jquery-core-deferred.notifyWith {
+  color: #CFF417;
+}
+#editor-holder .cm-tag.cm-dreamweaver-jquery-core-deferred.pipe,
+#editor-holder .cm-builtin.cm-dreamweaver-jquery-core-deferred.pipe,
+#editor-holder .cm-qualifier.cm-dreamweaver-jquery-core-deferred.pipe,
+#editor-holder .cm-variable.cm-dreamweaver-jquery-core-deferred.pipe,
+#editor-holder .cm-variable-1.cm-dreamweaver-jquery-core-deferred.pipe,
+#editor-holder .cm-variable-2.cm-dreamweaver-jquery-core-deferred.pipe,
+#editor-holder .cm-string.cm-dreamweaver-jquery-core-deferred.pipe,
+#editor-holder .cm-property.cm-dreamweaver-jquery-core-deferred.pipe {
+  color: #CFF417;
+}
+#editor-holder .cm-tag.cm-dreamweaver-jquery-core-deferred.progress,
+#editor-holder .cm-builtin.cm-dreamweaver-jquery-core-deferred.progress,
+#editor-holder .cm-qualifier.cm-dreamweaver-jquery-core-deferred.progress,
+#editor-holder .cm-variable.cm-dreamweaver-jquery-core-deferred.progress,
+#editor-holder .cm-variable-1.cm-dreamweaver-jquery-core-deferred.progress,
+#editor-holder .cm-variable-2.cm-dreamweaver-jquery-core-deferred.progress,
+#editor-holder .cm-string.cm-dreamweaver-jquery-core-deferred.progress,
+#editor-holder .cm-property.cm-dreamweaver-jquery-core-deferred.progress {
+  color: #CFF417;
+}
+#editor-holder .cm-tag.cm-dreamweaver-jquery-core-deferred.promise,
+#editor-holder .cm-builtin.cm-dreamweaver-jquery-core-deferred.promise,
+#editor-holder .cm-qualifier.cm-dreamweaver-jquery-core-deferred.promise,
+#editor-holder .cm-variable.cm-dreamweaver-jquery-core-deferred.promise,
+#editor-holder .cm-variable-1.cm-dreamweaver-jquery-core-deferred.promise,
+#editor-holder .cm-variable-2.cm-dreamweaver-jquery-core-deferred.promise,
+#editor-holder .cm-string.cm-dreamweaver-jquery-core-deferred.promise,
+#editor-holder .cm-property.cm-dreamweaver-jquery-core-deferred.promise {
+  color: #CFF417;
+}
+#editor-holder .cm-tag.cm-dreamweaver-jquery-core-deferred.reject,
+#editor-holder .cm-builtin.cm-dreamweaver-jquery-core-deferred.reject,
+#editor-holder .cm-qualifier.cm-dreamweaver-jquery-core-deferred.reject,
+#editor-holder .cm-variable.cm-dreamweaver-jquery-core-deferred.reject,
+#editor-holder .cm-variable-1.cm-dreamweaver-jquery-core-deferred.reject,
+#editor-holder .cm-variable-2.cm-dreamweaver-jquery-core-deferred.reject,
+#editor-holder .cm-string.cm-dreamweaver-jquery-core-deferred.reject,
+#editor-holder .cm-property.cm-dreamweaver-jquery-core-deferred.reject {
+  color: #CFF417;
+}
+#editor-holder .cm-tag.cm-dreamweaver-jquery-core-deferred.rejectWith,
+#editor-holder .cm-builtin.cm-dreamweaver-jquery-core-deferred.rejectWith,
+#editor-holder .cm-qualifier.cm-dreamweaver-jquery-core-deferred.rejectWith,
+#editor-holder .cm-variable.cm-dreamweaver-jquery-core-deferred.rejectWith,
+#editor-holder .cm-variable-1.cm-dreamweaver-jquery-core-deferred.rejectWith,
+#editor-holder .cm-variable-2.cm-dreamweaver-jquery-core-deferred.rejectWith,
+#editor-holder .cm-string.cm-dreamweaver-jquery-core-deferred.rejectWith,
+#editor-holder .cm-property.cm-dreamweaver-jquery-core-deferred.rejectWith {
+  color: #CFF417;
+}
+#editor-holder .cm-tag.cm-dreamweaver-jquery-core-deferred.resolve,
+#editor-holder .cm-builtin.cm-dreamweaver-jquery-core-deferred.resolve,
+#editor-holder .cm-qualifier.cm-dreamweaver-jquery-core-deferred.resolve,
+#editor-holder .cm-variable.cm-dreamweaver-jquery-core-deferred.resolve,
+#editor-holder .cm-variable-1.cm-dreamweaver-jquery-core-deferred.resolve,
+#editor-holder .cm-variable-2.cm-dreamweaver-jquery-core-deferred.resolve,
+#editor-holder .cm-string.cm-dreamweaver-jquery-core-deferred.resolve,
+#editor-holder .cm-property.cm-dreamweaver-jquery-core-deferred.resolve {
+  color: #CFF417;
+}
+#editor-holder .cm-tag.cm-dreamweaver-jquery-core-deferred.resolveWith,
+#editor-holder .cm-builtin.cm-dreamweaver-jquery-core-deferred.resolveWith,
+#editor-holder .cm-qualifier.cm-dreamweaver-jquery-core-deferred.resolveWith,
+#editor-holder .cm-variable.cm-dreamweaver-jquery-core-deferred.resolveWith,
+#editor-holder .cm-variable-1.cm-dreamweaver-jquery-core-deferred.resolveWith,
+#editor-holder .cm-variable-2.cm-dreamweaver-jquery-core-deferred.resolveWith,
+#editor-holder .cm-string.cm-dreamweaver-jquery-core-deferred.resolveWith,
+#editor-holder .cm-property.cm-dreamweaver-jquery-core-deferred.resolveWith {
+  color: #CFF417;
+}
+#editor-holder .cm-tag.cm-dreamweaver-jquery-core-deferred.state,
+#editor-holder .cm-builtin.cm-dreamweaver-jquery-core-deferred.state,
+#editor-holder .cm-qualifier.cm-dreamweaver-jquery-core-deferred.state,
+#editor-holder .cm-variable.cm-dreamweaver-jquery-core-deferred.state,
+#editor-holder .cm-variable-1.cm-dreamweaver-jquery-core-deferred.state,
+#editor-holder .cm-variable-2.cm-dreamweaver-jquery-core-deferred.state,
+#editor-holder .cm-string.cm-dreamweaver-jquery-core-deferred.state,
+#editor-holder .cm-property.cm-dreamweaver-jquery-core-deferred.state {
+  color: #CFF417;
+}
+#editor-holder .cm-tag.cm-dreamweaver-jquery-core-deferred.then,
+#editor-holder .cm-builtin.cm-dreamweaver-jquery-core-deferred.then,
+#editor-holder .cm-qualifier.cm-dreamweaver-jquery-core-deferred.then,
+#editor-holder .cm-variable.cm-dreamweaver-jquery-core-deferred.then,
+#editor-holder .cm-variable-1.cm-dreamweaver-jquery-core-deferred.then,
+#editor-holder .cm-variable-2.cm-dreamweaver-jquery-core-deferred.then,
+#editor-holder .cm-string.cm-dreamweaver-jquery-core-deferred.then,
+#editor-holder .cm-property.cm-dreamweaver-jquery-core-deferred.then {
+  color: #CFF417;
+}
+#editor-holder .cm-tag.cm-dreamweaver-jquery-core-promise,
+#editor-holder .cm-builtin.cm-dreamweaver-jquery-core-promise,
+#editor-holder .cm-qualifier.cm-dreamweaver-jquery-core-promise,
+#editor-holder .cm-variable.cm-dreamweaver-jquery-core-promise,
+#editor-holder .cm-variable-1.cm-dreamweaver-jquery-core-promise,
+#editor-holder .cm-variable-2.cm-dreamweaver-jquery-core-promise,
+#editor-holder .cm-string.cm-dreamweaver-jquery-core-promise,
+#editor-holder .cm-property.cm-dreamweaver-jquery-core-promise {
+  color: #CFF417;
+}
+#editor-holder .cm-tag.cm-dreamweaver-jquery-core-jQuery.boxModel,
+#editor-holder .cm-builtin.cm-dreamweaver-jquery-core-jQuery.boxModel,
+#editor-holder .cm-qualifier.cm-dreamweaver-jquery-core-jQuery.boxModel,
+#editor-holder .cm-variable.cm-dreamweaver-jquery-core-jQuery.boxModel,
+#editor-holder .cm-variable-1.cm-dreamweaver-jquery-core-jQuery.boxModel,
+#editor-holder .cm-variable-2.cm-dreamweaver-jquery-core-jQuery.boxModel,
+#editor-holder .cm-string.cm-dreamweaver-jquery-core-jQuery.boxModel,
+#editor-holder .cm-property.cm-dreamweaver-jquery-core-jQuery.boxModel {
+  color: #CFF417;
+}
+#editor-holder .cm-tag.cm-dreamweaver-jquery-core-jQuery.browser,
+#editor-holder .cm-builtin.cm-dreamweaver-jquery-core-jQuery.browser,
+#editor-holder .cm-qualifier.cm-dreamweaver-jquery-core-jQuery.browser,
+#editor-holder .cm-variable.cm-dreamweaver-jquery-core-jQuery.browser,
+#editor-holder .cm-variable-1.cm-dreamweaver-jquery-core-jQuery.browser,
+#editor-holder .cm-variable-2.cm-dreamweaver-jquery-core-jQuery.browser,
+#editor-holder .cm-string.cm-dreamweaver-jquery-core-jQuery.browser,
+#editor-holder .cm-property.cm-dreamweaver-jquery-core-jQuery.browser {
+  color: #CFF417;
+}
+#editor-holder .cm-tag.cm-dreamweaver-jquery-core-jQuery.contains,
+#editor-holder .cm-builtin.cm-dreamweaver-jquery-core-jQuery.contains,
+#editor-holder .cm-qualifier.cm-dreamweaver-jquery-core-jQuery.contains,
+#editor-holder .cm-variable.cm-dreamweaver-jquery-core-jQuery.contains,
+#editor-holder .cm-variable-1.cm-dreamweaver-jquery-core-jQuery.contains,
+#editor-holder .cm-variable-2.cm-dreamweaver-jquery-core-jQuery.contains,
+#editor-holder .cm-string.cm-dreamweaver-jquery-core-jQuery.contains,
+#editor-holder .cm-property.cm-dreamweaver-jquery-core-jQuery.contains {
+  color: #CFF417;
+}
+#editor-holder .cm-tag.cm-dreamweaver-jquery-core-jQuery.each,
+#editor-holder .cm-builtin.cm-dreamweaver-jquery-core-jQuery.each,
+#editor-holder .cm-qualifier.cm-dreamweaver-jquery-core-jQuery.each,
+#editor-holder .cm-variable.cm-dreamweaver-jquery-core-jQuery.each,
+#editor-holder .cm-variable-1.cm-dreamweaver-jquery-core-jQuery.each,
+#editor-holder .cm-variable-2.cm-dreamweaver-jquery-core-jQuery.each,
+#editor-holder .cm-string.cm-dreamweaver-jquery-core-jQuery.each,
+#editor-holder .cm-property.cm-dreamweaver-jquery-core-jQuery.each {
+  color: #CFF417;
+}
+#editor-holder .cm-tag.cm-dreamweaver-jquery-core-jQuery.extend,
+#editor-holder .cm-builtin.cm-dreamweaver-jquery-core-jQuery.extend,
+#editor-holder .cm-qualifier.cm-dreamweaver-jquery-core-jQuery.extend,
+#editor-holder .cm-variable.cm-dreamweaver-jquery-core-jQuery.extend,
+#editor-holder .cm-variable-1.cm-dreamweaver-jquery-core-jQuery.extend,
+#editor-holder .cm-variable-2.cm-dreamweaver-jquery-core-jQuery.extend,
+#editor-holder .cm-string.cm-dreamweaver-jquery-core-jQuery.extend,
+#editor-holder .cm-property.cm-dreamweaver-jquery-core-jQuery.extend {
+  color: #CFF417;
+}
+#editor-holder .cm-tag.cm-dreamweaver-jquery-core-jQuery.globalEval,
+#editor-holder .cm-builtin.cm-dreamweaver-jquery-core-jQuery.globalEval,
+#editor-holder .cm-qualifier.cm-dreamweaver-jquery-core-jQuery.globalEval,
+#editor-holder .cm-variable.cm-dreamweaver-jquery-core-jQuery.globalEval,
+#editor-holder .cm-variable-1.cm-dreamweaver-jquery-core-jQuery.globalEval,
+#editor-holder .cm-variable-2.cm-dreamweaver-jquery-core-jQuery.globalEval,
+#editor-holder .cm-string.cm-dreamweaver-jquery-core-jQuery.globalEval,
+#editor-holder .cm-property.cm-dreamweaver-jquery-core-jQuery.globalEval {
+  color: #CFF417;
+}
+#editor-holder .cm-tag.cm-dreamweaver-jquery-core-jQuery.grep,
+#editor-holder .cm-builtin.cm-dreamweaver-jquery-core-jQuery.grep,
+#editor-holder .cm-qualifier.cm-dreamweaver-jquery-core-jQuery.grep,
+#editor-holder .cm-variable.cm-dreamweaver-jquery-core-jQuery.grep,
+#editor-holder .cm-variable-1.cm-dreamweaver-jquery-core-jQuery.grep,
+#editor-holder .cm-variable-2.cm-dreamweaver-jquery-core-jQuery.grep,
+#editor-holder .cm-string.cm-dreamweaver-jquery-core-jQuery.grep,
+#editor-holder .cm-property.cm-dreamweaver-jquery-core-jQuery.grep {
+  color: #CFF417;
+}
+#editor-holder .cm-tag.cm-dreamweaver-jquery-core-jQuery.inArray,
+#editor-holder .cm-builtin.cm-dreamweaver-jquery-core-jQuery.inArray,
+#editor-holder .cm-qualifier.cm-dreamweaver-jquery-core-jQuery.inArray,
+#editor-holder .cm-variable.cm-dreamweaver-jquery-core-jQuery.inArray,
+#editor-holder .cm-variable-1.cm-dreamweaver-jquery-core-jQuery.inArray,
+#editor-holder .cm-variable-2.cm-dreamweaver-jquery-core-jQuery.inArray,
+#editor-holder .cm-string.cm-dreamweaver-jquery-core-jQuery.inArray,
+#editor-holder .cm-property.cm-dreamweaver-jquery-core-jQuery.inArray {
+  color: #CFF417;
+}
+#editor-holder .cm-tag.cm-dreamweaver-jquery-core-jQuery.isArray,
+#editor-holder .cm-builtin.cm-dreamweaver-jquery-core-jQuery.isArray,
+#editor-holder .cm-qualifier.cm-dreamweaver-jquery-core-jQuery.isArray,
+#editor-holder .cm-variable.cm-dreamweaver-jquery-core-jQuery.isArray,
+#editor-holder .cm-variable-1.cm-dreamweaver-jquery-core-jQuery.isArray,
+#editor-holder .cm-variable-2.cm-dreamweaver-jquery-core-jQuery.isArray,
+#editor-holder .cm-string.cm-dreamweaver-jquery-core-jQuery.isArray,
+#editor-holder .cm-property.cm-dreamweaver-jquery-core-jQuery.isArray {
+  color: #CFF417;
+}
+#editor-holder .cm-tag.cm-dreamweaver-jquery-core-jQuery.isEmptyObject,
+#editor-holder .cm-builtin.cm-dreamweaver-jquery-core-jQuery.isEmptyObject,
+#editor-holder .cm-qualifier.cm-dreamweaver-jquery-core-jQuery.isEmptyObject,
+#editor-holder .cm-variable.cm-dreamweaver-jquery-core-jQuery.isEmptyObject,
+#editor-holder .cm-variable-1.cm-dreamweaver-jquery-core-jQuery.isEmptyObject,
+#editor-holder .cm-variable-2.cm-dreamweaver-jquery-core-jQuery.isEmptyObject,
+#editor-holder .cm-string.cm-dreamweaver-jquery-core-jQuery.isEmptyObject,
+#editor-holder .cm-property.cm-dreamweaver-jquery-core-jQuery.isEmptyObject {
+  color: #CFF417;
+}
+#editor-holder .cm-tag.cm-dreamweaver-jquery-core-jQuery.isFunction,
+#editor-holder .cm-builtin.cm-dreamweaver-jquery-core-jQuery.isFunction,
+#editor-holder .cm-qualifier.cm-dreamweaver-jquery-core-jQuery.isFunction,
+#editor-holder .cm-variable.cm-dreamweaver-jquery-core-jQuery.isFunction,
+#editor-holder .cm-variable-1.cm-dreamweaver-jquery-core-jQuery.isFunction,
+#editor-holder .cm-variable-2.cm-dreamweaver-jquery-core-jQuery.isFunction,
+#editor-holder .cm-string.cm-dreamweaver-jquery-core-jQuery.isFunction,
+#editor-holder .cm-property.cm-dreamweaver-jquery-core-jQuery.isFunction {
+  color: #CFF417;
+}
+#editor-holder .cm-tag.cm-dreamweaver-jquery-core-jQuery.isNumeric,
+#editor-holder .cm-builtin.cm-dreamweaver-jquery-core-jQuery.isNumeric,
+#editor-holder .cm-qualifier.cm-dreamweaver-jquery-core-jQuery.isNumeric,
+#editor-holder .cm-variable.cm-dreamweaver-jquery-core-jQuery.isNumeric,
+#editor-holder .cm-variable-1.cm-dreamweaver-jquery-core-jQuery.isNumeric,
+#editor-holder .cm-variable-2.cm-dreamweaver-jquery-core-jQuery.isNumeric,
+#editor-holder .cm-string.cm-dreamweaver-jquery-core-jQuery.isNumeric,
+#editor-holder .cm-property.cm-dreamweaver-jquery-core-jQuery.isNumeric {
+  color: #CFF417;
+}
+#editor-holder .cm-tag.cm-dreamweaver-jquery-core-jQuery.isPlainObject,
+#editor-holder .cm-builtin.cm-dreamweaver-jquery-core-jQuery.isPlainObject,
+#editor-holder .cm-qualifier.cm-dreamweaver-jquery-core-jQuery.isPlainObject,
+#editor-holder .cm-variable.cm-dreamweaver-jquery-core-jQuery.isPlainObject,
+#editor-holder .cm-variable-1.cm-dreamweaver-jquery-core-jQuery.isPlainObject,
+#editor-holder .cm-variable-2.cm-dreamweaver-jquery-core-jQuery.isPlainObject,
+#editor-holder .cm-string.cm-dreamweaver-jquery-core-jQuery.isPlainObject,
+#editor-holder .cm-property.cm-dreamweaver-jquery-core-jQuery.isPlainObject {
+  color: #CFF417;
+}
+#editor-holder .cm-tag.cm-dreamweaver-jquery-core-jQuery.isWindow,
+#editor-holder .cm-builtin.cm-dreamweaver-jquery-core-jQuery.isWindow,
+#editor-holder .cm-qualifier.cm-dreamweaver-jquery-core-jQuery.isWindow,
+#editor-holder .cm-variable.cm-dreamweaver-jquery-core-jQuery.isWindow,
+#editor-holder .cm-variable-1.cm-dreamweaver-jquery-core-jQuery.isWindow,
+#editor-holder .cm-variable-2.cm-dreamweaver-jquery-core-jQuery.isWindow,
+#editor-holder .cm-string.cm-dreamweaver-jquery-core-jQuery.isWindow,
+#editor-holder .cm-property.cm-dreamweaver-jquery-core-jQuery.isWindow {
+  color: #CFF417;
+}
+#editor-holder .cm-tag.cm-dreamweaver-jquery-core-jQuery.isXMLDoc,
+#editor-holder .cm-builtin.cm-dreamweaver-jquery-core-jQuery.isXMLDoc,
+#editor-holder .cm-qualifier.cm-dreamweaver-jquery-core-jQuery.isXMLDoc,
+#editor-holder .cm-variable.cm-dreamweaver-jquery-core-jQuery.isXMLDoc,
+#editor-holder .cm-variable-1.cm-dreamweaver-jquery-core-jQuery.isXMLDoc,
+#editor-holder .cm-variable-2.cm-dreamweaver-jquery-core-jQuery.isXMLDoc,
+#editor-holder .cm-string.cm-dreamweaver-jquery-core-jQuery.isXMLDoc,
+#editor-holder .cm-property.cm-dreamweaver-jquery-core-jQuery.isXMLDoc {
+  color: #CFF417;
+}
+#editor-holder .cm-tag.cm-dreamweaver-jquery-core-jQuery.makeArray,
+#editor-holder .cm-builtin.cm-dreamweaver-jquery-core-jQuery.makeArray,
+#editor-holder .cm-qualifier.cm-dreamweaver-jquery-core-jQuery.makeArray,
+#editor-holder .cm-variable.cm-dreamweaver-jquery-core-jQuery.makeArray,
+#editor-holder .cm-variable-1.cm-dreamweaver-jquery-core-jQuery.makeArray,
+#editor-holder .cm-variable-2.cm-dreamweaver-jquery-core-jQuery.makeArray,
+#editor-holder .cm-string.cm-dreamweaver-jquery-core-jQuery.makeArray,
+#editor-holder .cm-property.cm-dreamweaver-jquery-core-jQuery.makeArray {
+  color: #CFF417;
+}
+#editor-holder .cm-tag.cm-dreamweaver-jquery-core-jQuery.map,
+#editor-holder .cm-builtin.cm-dreamweaver-jquery-core-jQuery.map,
+#editor-holder .cm-qualifier.cm-dreamweaver-jquery-core-jQuery.map,
+#editor-holder .cm-variable.cm-dreamweaver-jquery-core-jQuery.map,
+#editor-holder .cm-variable-1.cm-dreamweaver-jquery-core-jQuery.map,
+#editor-holder .cm-variable-2.cm-dreamweaver-jquery-core-jQuery.map,
+#editor-holder .cm-string.cm-dreamweaver-jquery-core-jQuery.map,
+#editor-holder .cm-property.cm-dreamweaver-jquery-core-jQuery.map {
+  color: #CFF417;
+}
+#editor-holder .cm-tag.cm-dreamweaver-jquery-core-jQuery.merge,
+#editor-holder .cm-builtin.cm-dreamweaver-jquery-core-jQuery.merge,
+#editor-holder .cm-qualifier.cm-dreamweaver-jquery-core-jQuery.merge,
+#editor-holder .cm-variable.cm-dreamweaver-jquery-core-jQuery.merge,
+#editor-holder .cm-variable-1.cm-dreamweaver-jquery-core-jQuery.merge,
+#editor-holder .cm-variable-2.cm-dreamweaver-jquery-core-jQuery.merge,
+#editor-holder .cm-string.cm-dreamweaver-jquery-core-jQuery.merge,
+#editor-holder .cm-property.cm-dreamweaver-jquery-core-jQuery.merge {
+  color: #CFF417;
+}
+#editor-holder .cm-tag.cm-dreamweaver-jquery-core-jQuery.noop,
+#editor-holder .cm-builtin.cm-dreamweaver-jquery-core-jQuery.noop,
+#editor-holder .cm-qualifier.cm-dreamweaver-jquery-core-jQuery.noop,
+#editor-holder .cm-variable.cm-dreamweaver-jquery-core-jQuery.noop,
+#editor-holder .cm-variable-1.cm-dreamweaver-jquery-core-jQuery.noop,
+#editor-holder .cm-variable-2.cm-dreamweaver-jquery-core-jQuery.noop,
+#editor-holder .cm-string.cm-dreamweaver-jquery-core-jQuery.noop,
+#editor-holder .cm-property.cm-dreamweaver-jquery-core-jQuery.noop {
+  color: #CFF417;
+}
+#editor-holder .cm-tag.cm-dreamweaver-jquery-core-jQuery.now,
+#editor-holder .cm-builtin.cm-dreamweaver-jquery-core-jQuery.now,
+#editor-holder .cm-qualifier.cm-dreamweaver-jquery-core-jQuery.now,
+#editor-holder .cm-variable.cm-dreamweaver-jquery-core-jQuery.now,
+#editor-holder .cm-variable-1.cm-dreamweaver-jquery-core-jQuery.now,
+#editor-holder .cm-variable-2.cm-dreamweaver-jquery-core-jQuery.now,
+#editor-holder .cm-string.cm-dreamweaver-jquery-core-jQuery.now,
+#editor-holder .cm-property.cm-dreamweaver-jquery-core-jQuery.now {
+  color: #CFF417;
+}
+#editor-holder .cm-tag.cm-dreamweaver-jquery-core-jQuery.parseHTML,
+#editor-holder .cm-builtin.cm-dreamweaver-jquery-core-jQuery.parseHTML,
+#editor-holder .cm-qualifier.cm-dreamweaver-jquery-core-jQuery.parseHTML,
+#editor-holder .cm-variable.cm-dreamweaver-jquery-core-jQuery.parseHTML,
+#editor-holder .cm-variable-1.cm-dreamweaver-jquery-core-jQuery.parseHTML,
+#editor-holder .cm-variable-2.cm-dreamweaver-jquery-core-jQuery.parseHTML,
+#editor-holder .cm-string.cm-dreamweaver-jquery-core-jQuery.parseHTML,
+#editor-holder .cm-property.cm-dreamweaver-jquery-core-jQuery.parseHTML {
+  color: #CFF417;
+}
+#editor-holder .cm-tag.cm-dreamweaver-jquery-core-jQuery.parseJSON,
+#editor-holder .cm-builtin.cm-dreamweaver-jquery-core-jQuery.parseJSON,
+#editor-holder .cm-qualifier.cm-dreamweaver-jquery-core-jQuery.parseJSON,
+#editor-holder .cm-variable.cm-dreamweaver-jquery-core-jQuery.parseJSON,
+#editor-holder .cm-variable-1.cm-dreamweaver-jquery-core-jQuery.parseJSON,
+#editor-holder .cm-variable-2.cm-dreamweaver-jquery-core-jQuery.parseJSON,
+#editor-holder .cm-string.cm-dreamweaver-jquery-core-jQuery.parseJSON,
+#editor-holder .cm-property.cm-dreamweaver-jquery-core-jQuery.parseJSON {
+  color: #CFF417;
+}
+#editor-holder .cm-tag.cm-dreamweaver-jquery-core-jQuery.parseXML,
+#editor-holder .cm-builtin.cm-dreamweaver-jquery-core-jQuery.parseXML,
+#editor-holder .cm-qualifier.cm-dreamweaver-jquery-core-jQuery.parseXML,
+#editor-holder .cm-variable.cm-dreamweaver-jquery-core-jQuery.parseXML,
+#editor-holder .cm-variable-1.cm-dreamweaver-jquery-core-jQuery.parseXML,
+#editor-holder .cm-variable-2.cm-dreamweaver-jquery-core-jQuery.parseXML,
+#editor-holder .cm-string.cm-dreamweaver-jquery-core-jQuery.parseXML,
+#editor-holder .cm-property.cm-dreamweaver-jquery-core-jQuery.parseXML {
+  color: #CFF417;
+}
+#editor-holder .cm-tag.cm-dreamweaver-jquery-core-jQuery.proxy,
+#editor-holder .cm-builtin.cm-dreamweaver-jquery-core-jQuery.proxy,
+#editor-holder .cm-qualifier.cm-dreamweaver-jquery-core-jQuery.proxy,
+#editor-holder .cm-variable.cm-dreamweaver-jquery-core-jQuery.proxy,
+#editor-holder .cm-variable-1.cm-dreamweaver-jquery-core-jQuery.proxy,
+#editor-holder .cm-variable-2.cm-dreamweaver-jquery-core-jQuery.proxy,
+#editor-holder .cm-string.cm-dreamweaver-jquery-core-jQuery.proxy,
+#editor-holder .cm-property.cm-dreamweaver-jquery-core-jQuery.proxy {
+  color: #CFF417;
+}
+#editor-holder .cm-tag.cm-dreamweaver-jquery-core-jQuery.support,
+#editor-holder .cm-builtin.cm-dreamweaver-jquery-core-jQuery.support,
+#editor-holder .cm-qualifier.cm-dreamweaver-jquery-core-jQuery.support,
+#editor-holder .cm-variable.cm-dreamweaver-jquery-core-jQuery.support,
+#editor-holder .cm-variable-1.cm-dreamweaver-jquery-core-jQuery.support,
+#editor-holder .cm-variable-2.cm-dreamweaver-jquery-core-jQuery.support,
+#editor-holder .cm-string.cm-dreamweaver-jquery-core-jQuery.support,
+#editor-holder .cm-property.cm-dreamweaver-jquery-core-jQuery.support {
+  color: #CFF417;
+}
+#editor-holder .cm-tag.cm-dreamweaver-jquery-core-jQuery.trim,
+#editor-holder .cm-builtin.cm-dreamweaver-jquery-core-jQuery.trim,
+#editor-holder .cm-qualifier.cm-dreamweaver-jquery-core-jQuery.trim,
+#editor-holder .cm-variable.cm-dreamweaver-jquery-core-jQuery.trim,
+#editor-holder .cm-variable-1.cm-dreamweaver-jquery-core-jQuery.trim,
+#editor-holder .cm-variable-2.cm-dreamweaver-jquery-core-jQuery.trim,
+#editor-holder .cm-string.cm-dreamweaver-jquery-core-jQuery.trim,
+#editor-holder .cm-property.cm-dreamweaver-jquery-core-jQuery.trim {
+  color: #CFF417;
+}
+#editor-holder .cm-tag.cm-dreamweaver-jquery-core-jQuery.type,
+#editor-holder .cm-builtin.cm-dreamweaver-jquery-core-jQuery.type,
+#editor-holder .cm-qualifier.cm-dreamweaver-jquery-core-jQuery.type,
+#editor-holder .cm-variable.cm-dreamweaver-jquery-core-jQuery.type,
+#editor-holder .cm-variable-1.cm-dreamweaver-jquery-core-jQuery.type,
+#editor-holder .cm-variable-2.cm-dreamweaver-jquery-core-jQuery.type,
+#editor-holder .cm-string.cm-dreamweaver-jquery-core-jQuery.type,
+#editor-holder .cm-property.cm-dreamweaver-jquery-core-jQuery.type {
+  color: #CFF417;
+}
+#editor-holder .cm-tag.cm-dreamweaver-jquery-core-jQuery.unique,
+#editor-holder .cm-builtin.cm-dreamweaver-jquery-core-jQuery.unique,
+#editor-holder .cm-qualifier.cm-dreamweaver-jquery-core-jQuery.unique,
+#editor-holder .cm-variable.cm-dreamweaver-jquery-core-jQuery.unique,
+#editor-holder .cm-variable-1.cm-dreamweaver-jquery-core-jQuery.unique,
+#editor-holder .cm-variable-2.cm-dreamweaver-jquery-core-jQuery.unique,
+#editor-holder .cm-string.cm-dreamweaver-jquery-core-jQuery.unique,
+#editor-holder .cm-property.cm-dreamweaver-jquery-core-jQuery.unique {
+  color: #CFF417;
+}
+#editor-holder .cm-tag.cm-dreamweaver-jquery-core-jQuery.uniqueSort,
+#editor-holder .cm-builtin.cm-dreamweaver-jquery-core-jQuery.uniqueSort,
+#editor-holder .cm-qualifier.cm-dreamweaver-jquery-core-jQuery.uniqueSort,
+#editor-holder .cm-variable.cm-dreamweaver-jquery-core-jQuery.uniqueSort,
+#editor-holder .cm-variable-1.cm-dreamweaver-jquery-core-jQuery.uniqueSort,
+#editor-holder .cm-variable-2.cm-dreamweaver-jquery-core-jQuery.uniqueSort,
+#editor-holder .cm-string.cm-dreamweaver-jquery-core-jQuery.uniqueSort,
+#editor-holder .cm-property.cm-dreamweaver-jquery-core-jQuery.uniqueSort {
+  color: #CFF417;
+}
+#editor-holder .cm-tag.cm-dreamweaver-jquery-core-get,
+#editor-holder .cm-builtin.cm-dreamweaver-jquery-core-get,
+#editor-holder .cm-qualifier.cm-dreamweaver-jquery-core-get,
+#editor-holder .cm-variable.cm-dreamweaver-jquery-core-get,
+#editor-holder .cm-variable-1.cm-dreamweaver-jquery-core-get,
+#editor-holder .cm-variable-2.cm-dreamweaver-jquery-core-get,
+#editor-holder .cm-string.cm-dreamweaver-jquery-core-get,
+#editor-holder .cm-property.cm-dreamweaver-jquery-core-get {
+  color: #CFF417;
+}
+#editor-holder .cm-tag.cm-dreamweaver-jquery-core-index,
+#editor-holder .cm-builtin.cm-dreamweaver-jquery-core-index,
+#editor-holder .cm-qualifier.cm-dreamweaver-jquery-core-index,
+#editor-holder .cm-variable.cm-dreamweaver-jquery-core-index,
+#editor-holder .cm-variable-1.cm-dreamweaver-jquery-core-index,
+#editor-holder .cm-variable-2.cm-dreamweaver-jquery-core-index,
+#editor-holder .cm-string.cm-dreamweaver-jquery-core-index,
+#editor-holder .cm-property.cm-dreamweaver-jquery-core-index {
+  color: #CFF417;
+}
+#editor-holder .cm-tag.cm-dreamweaver-jquery-core-size,
+#editor-holder .cm-builtin.cm-dreamweaver-jquery-core-size,
+#editor-holder .cm-qualifier.cm-dreamweaver-jquery-core-size,
+#editor-holder .cm-variable.cm-dreamweaver-jquery-core-size,
+#editor-holder .cm-variable-1.cm-dreamweaver-jquery-core-size,
+#editor-holder .cm-variable-2.cm-dreamweaver-jquery-core-size,
+#editor-holder .cm-string.cm-dreamweaver-jquery-core-size,
+#editor-holder .cm-property.cm-dreamweaver-jquery-core-size {
+  color: #CFF417;
+}
+#editor-holder .cm-tag.cm-dreamweaver-jquery-core-toArray,
+#editor-holder .cm-builtin.cm-dreamweaver-jquery-core-toArray,
+#editor-holder .cm-qualifier.cm-dreamweaver-jquery-core-toArray,
+#editor-holder .cm-variable.cm-dreamweaver-jquery-core-toArray,
+#editor-holder .cm-variable-1.cm-dreamweaver-jquery-core-toArray,
+#editor-holder .cm-variable-2.cm-dreamweaver-jquery-core-toArray,
+#editor-holder .cm-string.cm-dreamweaver-jquery-core-toArray,
+#editor-holder .cm-property.cm-dreamweaver-jquery-core-toArray {
+  color: #CFF417;
+}
+#editor-holder .cm-tag.cm-dreamweaver-jquery-core-jquery,
+#editor-holder .cm-builtin.cm-dreamweaver-jquery-core-jquery,
+#editor-holder .cm-qualifier.cm-dreamweaver-jquery-core-jquery,
+#editor-holder .cm-variable.cm-dreamweaver-jquery-core-jquery,
+#editor-holder .cm-variable-1.cm-dreamweaver-jquery-core-jquery,
+#editor-holder .cm-variable-2.cm-dreamweaver-jquery-core-jquery,
+#editor-holder .cm-string.cm-dreamweaver-jquery-core-jquery,
+#editor-holder .cm-property.cm-dreamweaver-jquery-core-jquery {
+  color: #CFF417;
+}
+#editor-holder .cm-tag.cm-dreamweaver-jquery-core-context,
+#editor-holder .cm-builtin.cm-dreamweaver-jquery-core-context,
+#editor-holder .cm-qualifier.cm-dreamweaver-jquery-core-context,
+#editor-holder .cm-variable.cm-dreamweaver-jquery-core-context,
+#editor-holder .cm-variable-1.cm-dreamweaver-jquery-core-context,
+#editor-holder .cm-variable-2.cm-dreamweaver-jquery-core-context,
+#editor-holder .cm-string.cm-dreamweaver-jquery-core-context,
+#editor-holder .cm-property.cm-dreamweaver-jquery-core-context {
+  color: #CFF417;
+}
+#editor-holder .cm-tag.cm-dreamweaver-jquery-core-jQuery.error,
+#editor-holder .cm-builtin.cm-dreamweaver-jquery-core-jQuery.error,
+#editor-holder .cm-qualifier.cm-dreamweaver-jquery-core-jQuery.error,
+#editor-holder .cm-variable.cm-dreamweaver-jquery-core-jQuery.error,
+#editor-holder .cm-variable-1.cm-dreamweaver-jquery-core-jQuery.error,
+#editor-holder .cm-variable-2.cm-dreamweaver-jquery-core-jQuery.error,
+#editor-holder .cm-string.cm-dreamweaver-jquery-core-jQuery.error,
+#editor-holder .cm-property.cm-dreamweaver-jquery-core-jQuery.error {
+  color: #CFF417;
+}
+#editor-holder .cm-tag.cm-dreamweaver-jquery-core-length,
+#editor-holder .cm-builtin.cm-dreamweaver-jquery-core-length,
+#editor-holder .cm-qualifier.cm-dreamweaver-jquery-core-length,
+#editor-holder .cm-variable.cm-dreamweaver-jquery-core-length,
+#editor-holder .cm-variable-1.cm-dreamweaver-jquery-core-length,
+#editor-holder .cm-variable-2.cm-dreamweaver-jquery-core-length,
+#editor-holder .cm-string.cm-dreamweaver-jquery-core-length,
+#editor-holder .cm-property.cm-dreamweaver-jquery-core-length {
+  color: #CFF417;
+}
+#editor-holder .cm-tag.cm-dreamweaver-jquery-core-pushStack,
+#editor-holder .cm-builtin.cm-dreamweaver-jquery-core-pushStack,
+#editor-holder .cm-qualifier.cm-dreamweaver-jquery-core-pushStack,
+#editor-holder .cm-variable.cm-dreamweaver-jquery-core-pushStack,
+#editor-holder .cm-variable-1.cm-dreamweaver-jquery-core-pushStack,
+#editor-holder .cm-variable-2.cm-dreamweaver-jquery-core-pushStack,
+#editor-holder .cm-string.cm-dreamweaver-jquery-core-pushStack,
+#editor-holder .cm-property.cm-dreamweaver-jquery-core-pushStack {
+  color: #CFF417;
+}
+#editor-holder .cm-tag.cm-dreamweaver-jquery-core-selector,
+#editor-holder .cm-builtin.cm-dreamweaver-jquery-core-selector,
+#editor-holder .cm-qualifier.cm-dreamweaver-jquery-core-selector,
+#editor-holder .cm-variable.cm-dreamweaver-jquery-core-selector,
+#editor-holder .cm-variable-1.cm-dreamweaver-jquery-core-selector,
+#editor-holder .cm-variable-2.cm-dreamweaver-jquery-core-selector,
+#editor-holder .cm-string.cm-dreamweaver-jquery-core-selector,
+#editor-holder .cm-property.cm-dreamweaver-jquery-core-selector {
+  color: #CFF417;
+}
+#editor-holder .cm-tag.cm-dreamweaver-jquery-core-jQuery.Callbacks,
+#editor-holder .cm-builtin.cm-dreamweaver-jquery-core-jQuery.Callbacks,
+#editor-holder .cm-qualifier.cm-dreamweaver-jquery-core-jQuery.Callbacks,
+#editor-holder .cm-variable.cm-dreamweaver-jquery-core-jQuery.Callbacks,
+#editor-holder .cm-variable-1.cm-dreamweaver-jquery-core-jQuery.Callbacks,
+#editor-holder .cm-variable-2.cm-dreamweaver-jquery-core-jQuery.Callbacks,
+#editor-holder .cm-string.cm-dreamweaver-jquery-core-jQuery.Callbacks,
+#editor-holder .cm-property.cm-dreamweaver-jquery-core-jQuery.Callbacks {
+  color: #CFF417;
+}
+#editor-holder .cm-tag.cm-dreamweaver-jquery-core-callbacks.add,
+#editor-holder .cm-builtin.cm-dreamweaver-jquery-core-callbacks.add,
+#editor-holder .cm-qualifier.cm-dreamweaver-jquery-core-callbacks.add,
+#editor-holder .cm-variable.cm-dreamweaver-jquery-core-callbacks.add,
+#editor-holder .cm-variable-1.cm-dreamweaver-jquery-core-callbacks.add,
+#editor-holder .cm-variable-2.cm-dreamweaver-jquery-core-callbacks.add,
+#editor-holder .cm-string.cm-dreamweaver-jquery-core-callbacks.add,
+#editor-holder .cm-property.cm-dreamweaver-jquery-core-callbacks.add {
+  color: #CFF417;
+}
+#editor-holder .cm-tag.cm-dreamweaver-jquery-core-callbacks.disable,
+#editor-holder .cm-builtin.cm-dreamweaver-jquery-core-callbacks.disable,
+#editor-holder .cm-qualifier.cm-dreamweaver-jquery-core-callbacks.disable,
+#editor-holder .cm-variable.cm-dreamweaver-jquery-core-callbacks.disable,
+#editor-holder .cm-variable-1.cm-dreamweaver-jquery-core-callbacks.disable,
+#editor-holder .cm-variable-2.cm-dreamweaver-jquery-core-callbacks.disable,
+#editor-holder .cm-string.cm-dreamweaver-jquery-core-callbacks.disable,
+#editor-holder .cm-property.cm-dreamweaver-jquery-core-callbacks.disable {
+  color: #CFF417;
+}
+#editor-holder .cm-tag.cm-dreamweaver-jquery-core-callbacks.disabled,
+#editor-holder .cm-builtin.cm-dreamweaver-jquery-core-callbacks.disabled,
+#editor-holder .cm-qualifier.cm-dreamweaver-jquery-core-callbacks.disabled,
+#editor-holder .cm-variable.cm-dreamweaver-jquery-core-callbacks.disabled,
+#editor-holder .cm-variable-1.cm-dreamweaver-jquery-core-callbacks.disabled,
+#editor-holder .cm-variable-2.cm-dreamweaver-jquery-core-callbacks.disabled,
+#editor-holder .cm-string.cm-dreamweaver-jquery-core-callbacks.disabled,
+#editor-holder .cm-property.cm-dreamweaver-jquery-core-callbacks.disabled {
+  color: #CFF417;
+}
+#editor-holder .cm-tag.cm-dreamweaver-jquery-core-callbacks.empty,
+#editor-holder .cm-builtin.cm-dreamweaver-jquery-core-callbacks.empty,
+#editor-holder .cm-qualifier.cm-dreamweaver-jquery-core-callbacks.empty,
+#editor-holder .cm-variable.cm-dreamweaver-jquery-core-callbacks.empty,
+#editor-holder .cm-variable-1.cm-dreamweaver-jquery-core-callbacks.empty,
+#editor-holder .cm-variable-2.cm-dreamweaver-jquery-core-callbacks.empty,
+#editor-holder .cm-string.cm-dreamweaver-jquery-core-callbacks.empty,
+#editor-holder .cm-property.cm-dreamweaver-jquery-core-callbacks.empty {
+  color: #CFF417;
+}
+#editor-holder .cm-tag.cm-dreamweaver-jquery-core-callbacks.fire,
+#editor-holder .cm-builtin.cm-dreamweaver-jquery-core-callbacks.fire,
+#editor-holder .cm-qualifier.cm-dreamweaver-jquery-core-callbacks.fire,
+#editor-holder .cm-variable.cm-dreamweaver-jquery-core-callbacks.fire,
+#editor-holder .cm-variable-1.cm-dreamweaver-jquery-core-callbacks.fire,
+#editor-holder .cm-variable-2.cm-dreamweaver-jquery-core-callbacks.fire,
+#editor-holder .cm-string.cm-dreamweaver-jquery-core-callbacks.fire,
+#editor-holder .cm-property.cm-dreamweaver-jquery-core-callbacks.fire {
+  color: #CFF417;
+}
+#editor-holder .cm-tag.cm-dreamweaver-jquery-core-callbacks.fired,
+#editor-holder .cm-builtin.cm-dreamweaver-jquery-core-callbacks.fired,
+#editor-holder .cm-qualifier.cm-dreamweaver-jquery-core-callbacks.fired,
+#editor-holder .cm-variable.cm-dreamweaver-jquery-core-callbacks.fired,
+#editor-holder .cm-variable-1.cm-dreamweaver-jquery-core-callbacks.fired,
+#editor-holder .cm-variable-2.cm-dreamweaver-jquery-core-callbacks.fired,
+#editor-holder .cm-string.cm-dreamweaver-jquery-core-callbacks.fired,
+#editor-holder .cm-property.cm-dreamweaver-jquery-core-callbacks.fired {
+  color: #CFF417;
+}
+#editor-holder .cm-tag.cm-dreamweaver-jquery-core-callbacks.fireWith,
+#editor-holder .cm-builtin.cm-dreamweaver-jquery-core-callbacks.fireWith,
+#editor-holder .cm-qualifier.cm-dreamweaver-jquery-core-callbacks.fireWith,
+#editor-holder .cm-variable.cm-dreamweaver-jquery-core-callbacks.fireWith,
+#editor-holder .cm-variable-1.cm-dreamweaver-jquery-core-callbacks.fireWith,
+#editor-holder .cm-variable-2.cm-dreamweaver-jquery-core-callbacks.fireWith,
+#editor-holder .cm-string.cm-dreamweaver-jquery-core-callbacks.fireWith,
+#editor-holder .cm-property.cm-dreamweaver-jquery-core-callbacks.fireWith {
+  color: #CFF417;
+}
+#editor-holder .cm-tag.cm-dreamweaver-jquery-core-callbacks.has,
+#editor-holder .cm-builtin.cm-dreamweaver-jquery-core-callbacks.has,
+#editor-holder .cm-qualifier.cm-dreamweaver-jquery-core-callbacks.has,
+#editor-holder .cm-variable.cm-dreamweaver-jquery-core-callbacks.has,
+#editor-holder .cm-variable-1.cm-dreamweaver-jquery-core-callbacks.has,
+#editor-holder .cm-variable-2.cm-dreamweaver-jquery-core-callbacks.has,
+#editor-holder .cm-string.cm-dreamweaver-jquery-core-callbacks.has,
+#editor-holder .cm-property.cm-dreamweaver-jquery-core-callbacks.has {
+  color: #CFF417;
+}
+#editor-holder .cm-tag.cm-dreamweaver-jquery-core-callbacks.lock,
+#editor-holder .cm-builtin.cm-dreamweaver-jquery-core-callbacks.lock,
+#editor-holder .cm-qualifier.cm-dreamweaver-jquery-core-callbacks.lock,
+#editor-holder .cm-variable.cm-dreamweaver-jquery-core-callbacks.lock,
+#editor-holder .cm-variable-1.cm-dreamweaver-jquery-core-callbacks.lock,
+#editor-holder .cm-variable-2.cm-dreamweaver-jquery-core-callbacks.lock,
+#editor-holder .cm-string.cm-dreamweaver-jquery-core-callbacks.lock,
+#editor-holder .cm-property.cm-dreamweaver-jquery-core-callbacks.lock {
+  color: #CFF417;
+}
+#editor-holder .cm-tag.cm-dreamweaver-jquery-core-callbacks.locked,
+#editor-holder .cm-builtin.cm-dreamweaver-jquery-core-callbacks.locked,
+#editor-holder .cm-qualifier.cm-dreamweaver-jquery-core-callbacks.locked,
+#editor-holder .cm-variable.cm-dreamweaver-jquery-core-callbacks.locked,
+#editor-holder .cm-variable-1.cm-dreamweaver-jquery-core-callbacks.locked,
+#editor-holder .cm-variable-2.cm-dreamweaver-jquery-core-callbacks.locked,
+#editor-holder .cm-string.cm-dreamweaver-jquery-core-callbacks.locked,
+#editor-holder .cm-property.cm-dreamweaver-jquery-core-callbacks.locked {
+  color: #CFF417;
+}
+#editor-holder .cm-tag.cm-dreamweaver-jquery-core-callbacks.remove,
+#editor-holder .cm-builtin.cm-dreamweaver-jquery-core-callbacks.remove,
+#editor-holder .cm-qualifier.cm-dreamweaver-jquery-core-callbacks.remove,
+#editor-holder .cm-variable.cm-dreamweaver-jquery-core-callbacks.remove,
+#editor-holder .cm-variable-1.cm-dreamweaver-jquery-core-callbacks.remove,
+#editor-holder .cm-variable-2.cm-dreamweaver-jquery-core-callbacks.remove,
+#editor-holder .cm-string.cm-dreamweaver-jquery-core-callbacks.remove,
+#editor-holder .cm-property.cm-dreamweaver-jquery-core-callbacks.remove {
+  color: #CFF417;
+}
+#editor-holder .cm-builtin {
+  color: #e28642;
+}
+#editor-holder .cm-bracket {
+  opacity: 0.9;
+}
+#editor-holder .cm-m-clike.cm-string {
+  color: #93DBC9;
+}
+#editor-holder .cm-attribute.cm-dreamweaver-jquery-tag-ID:not(#arienai) {
+  color: #B20000;
+}
